@@ -6,57 +6,96 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 16:37:09 by anttorre          #+#    #+#             */
-/*   Updated: 2023/07/24 17:04:54 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/02 17:37:54 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "push_swap.h"
 
-int	check_args(char **argv)
+static void	ft_free_arr(char **arr, size_t index)
 {
-	int	i;
-	int	j;
+	size_t	i;
 
-	i = 0;
-	while (argv[++i] != NULL)
+	if (arr != NULL)
 	{
-		j = -1;
-		while (argv[i][++j] != '\0')
+		i = 0;
+		while (i < index)
 		{
-			if (j == 0 && argv[i][j] == '-')
-				j++;
-			if (!ft_isdigit(argv[i][j]))
+			if (arr[i])
+				free(arr[i]);
+			i++;
+		}
+		free(arr);
+	}
+}
+
+void	ft_free_full_arr(char **arr)
+{
+	size_t	i;
+
+	if (arr != NULL)
+	{
+		i = 0;
+		while (arr[i] != NULL)
+		{
+			free(arr[i]);
+			i++;
+		}
+		free(arr);
+		arr = NULL;
+	}
+}
+
+int	check_args(char **argv, t_data *data, int argc)
+{
+	data->i = 0;
+	data->arr = ft_calloc(argc, sizeof(char *));
+	if (!data->arr)
+		return (ft_printf("Error\n"), EXIT_FAILURE);
+	while (argv[++data->i] != NULL)
+	{
+		argv[data->i] = ft_strtrim(argv[data->i], " ");
+		data->j = -1;
+		if (argv[data->i][0] == '\0')
+			return (ft_printf("Error\n"), EXIT_FAILURE);
+		while (argv[data->i][++data->j] != '\0')
+		{
+			if (data->j == 0 && argv[data->i][data->j] == '-')
+				data->j++;
+			if (!ft_isdigit(argv[data->i][data->j]))
 				return (ft_printf("Error\n"), EXIT_FAILURE);
 		}
+		data->arr[data->i - 1] = ft_calloc(ft_strlen(argv[data->i]) + 1, 1);
+		if (!data->arr[data->i - 1])
+			return (ft_free_arr(data->arr, (data->i - 1)), EXIT_FAILURE);
+		data->arr[data->i - 1] = argv[data->i];
 	}
-	ft_printf("todos son digitos");
+	data->arr[data->i - 1] = NULL;
 	return (EXIT_SUCCESS);
 }
 
-int	check_args1(char **argv)
+int	check_args1(char **argv, t_data *data)
 {
-	char	**arr;
 	int		i;
 	int		j;
 
 	if (argv[1] != NULL)
 	{
-		arr = ft_split(argv[1], ' ');
-		if (!arr)
+		data->arr = ft_split(argv[1], ' ');
+		if (!data->arr)
 			return (EXIT_FAILURE);
 		i = -1;
-		while (arr[++i] != NULL)
+		while (data->arr[++i] != NULL)
 		{
 			j = -1;
-			while (arr[i][++j] != '\0')
+			while (data->arr[i][++j] != '\0')
 			{
-				if (j == 0 && arr[i][j] == '-')
+				if (j == 0 && data->arr[i][j] == '-')
 					j++;
-				if (!ft_isdigit(arr[i][j]))
+				if (!ft_isdigit(data->arr[i][j]))
 					return (ft_printf("Error\n"), EXIT_FAILURE);
 			}
 		}
 	}
-	ft_printf("todos son digitos");
 	return (EXIT_SUCCESS);
 }
