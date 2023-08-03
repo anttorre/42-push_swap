@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 16:37:09 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/03 15:31:48 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/03 17:02:58 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,7 +56,8 @@ int	check_args(char **argv, t_data *data, int argc)
 	{
 		data->j = -1;
 		if (argv[data->i][0] == '\0')
-			return (ft_free_arr(data->arr, (data->i - 1)), ft_printf("Error\n"), EXIT_FAILURE);
+			return (ft_free_arr(data->arr, (data->i - 1))
+				, ft_printf("Error\n"), EXIT_FAILURE);
 		while (argv[data->i][++data->j] != '\0')
 		{
 			if (data->j == 0 && argv[data->i][data->j] == '-')
@@ -71,8 +72,7 @@ int	check_args(char **argv, t_data *data, int argc)
 		ft_strlcpy(data->arr[data->i - 1], argv[data->i],
 			ft_strlen(argv[data->i]) + 1);
 	}
-	data->arr[data->i - 1] = NULL;
-	return (EXIT_SUCCESS);
+	return (data->arr[data->i - 1] = NULL, EXIT_SUCCESS);
 }
 
 int	check_args1(char **argv, t_data *data)

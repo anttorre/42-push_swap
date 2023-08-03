@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/03 15:31:55 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/03 17:03:13 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,8 +29,6 @@ void	ft_leaks(void)
 {
 	system("leaks -q push_swap");
 }
-
-
 
 void	initialize_data(t_data *data)
 {
