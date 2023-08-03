@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 16:37:09 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/02 17:37:54 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/03 15:31:48 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ static void	ft_free_arr(char **arr, size_t index)
 		i = 0;
 		while (i < index)
 		{
-			if (arr[i])
+			if (arr[i] != NULL)
 				free(arr[i]);
 			i++;
 		}
@@ -54,21 +54,22 @@ int	check_args(char **argv, t_data *data, int argc)
 		return (ft_printf("Error\n"), EXIT_FAILURE);
 	while (argv[++data->i] != NULL)
 	{
-		argv[data->i] = ft_strtrim(argv[data->i], " ");
 		data->j = -1;
 		if (argv[data->i][0] == '\0')
-			return (ft_printf("Error\n"), EXIT_FAILURE);
+			return (ft_free_arr(data->arr, (data->i - 1)), ft_printf("Error\n"), EXIT_FAILURE);
 		while (argv[data->i][++data->j] != '\0')
 		{
 			if (data->j == 0 && argv[data->i][data->j] == '-')
 				data->j++;
 			if (!ft_isdigit(argv[data->i][data->j]))
-				return (ft_printf("Error\n"), EXIT_FAILURE);
+				return (ft_free_arr(data->arr, (data->i - 1)),
+					ft_printf("Error\n"), EXIT_FAILURE);
 		}
 		data->arr[data->i - 1] = ft_calloc(ft_strlen(argv[data->i]) + 1, 1);
 		if (!data->arr[data->i - 1])
 			return (ft_free_arr(data->arr, (data->i - 1)), EXIT_FAILURE);
-		data->arr[data->i - 1] = argv[data->i];
+		ft_strlcpy(data->arr[data->i - 1], argv[data->i],
+			ft_strlen(argv[data->i]) + 1);
 	}
 	data->arr[data->i - 1] = NULL;
 	return (EXIT_SUCCESS);
@@ -93,7 +94,8 @@ int	check_args1(char **argv, t_data *data)
 				if (j == 0 && data->arr[i][j] == '-')
 					j++;
 				if (!ft_isdigit(data->arr[i][j]))
-					return (ft_printf("Error\n"), EXIT_FAILURE);
+					return (ft_free_full_arr(data->arr), ft_printf("Error\n")
+						, EXIT_FAILURE);
 			}
 		}
 	}

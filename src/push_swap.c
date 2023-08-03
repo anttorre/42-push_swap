@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/02 17:40:55 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/03 15:31:55 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,6 +41,16 @@ void	initialize_data(t_data *data)
 	data->stack_b = NULL;
 }
 
+int	main1(t_data *data)
+{
+	if (init_stack_a(data) == EXIT_FAILURE)
+		return (ft_free_full_arr(data->arr),
+			ft_lstclear(&data->stack_a, &del_content)
+			, free(data), ft_printf("Error\n"), EXIT_FAILURE);
+	imprimir_lista_enlazada(data);
+	return (EXIT_SUCCESS);
+}
+
 int	main(int argc, char *argv[])
 {
 	t_data	*data;
@@ -62,8 +72,8 @@ int	main(int argc, char *argv[])
 	}
 	else
 		return (free(data), EXIT_FAILURE);
-	if (init_stack_a(data) == EXIT_FAILURE)
-		return (ft_free_full_arr(data->arr), ft_lstclear(&data->stack_a, &del_content), free(data), ft_printf("Error\n"), EXIT_FAILURE);
-	imprimir_lista_enlazada(data);
-	return (ft_free_full_arr(data->arr), ft_lstclear(&data->stack_a, &del_content), free(data), EXIT_SUCCESS);
+	if (main1(data) == EXIT_FAILURE)
+		return (EXIT_FAILURE);
+	return (ft_free_full_arr(data->arr),
+		ft_lstclear(&data->stack_a, &del_content), free(data), EXIT_SUCCESS);
 }
