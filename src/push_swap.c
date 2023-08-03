@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/03 17:03:13 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/03 17:17:55 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,14 +15,23 @@
 
 void	imprimir_lista_enlazada(t_data *data)
 {
-	t_list	*nodo_actual;
+	t_list	*nodo_a;
+	t_list	*nodo_b;
 
-	nodo_actual = data->stack_a;
-	while (nodo_actual != NULL)
+	nodo_a = data->stack_a;
+	nodo_b = data->stack_b;
+	while (nodo_a != NULL)
 	{
-		ft_printf("%d\n", nodo_actual->content);
-		nodo_actual = nodo_actual->next;
+		if (nodo_b == NULL)
+			ft_printf("%d  \n", nodo_a->content);
+		else
+			ft_printf("%d %d\n", nodo_a->content, nodo_b->content);
+		nodo_a = nodo_a->next;
+		if (nodo_b !=  NULL)
+			nodo_b = nodo_b->next;
 	}
+	ft_printf("- -\n");
+	ft_printf("a b\n");
 }
 
 void	ft_leaks(void)
@@ -53,7 +62,7 @@ int	main(int argc, char *argv[])
 {
 	t_data	*data;
 
-	atexit(ft_leaks);
+	//atexit(ft_leaks);
 	data = ft_calloc(1, sizeof(t_data));
 	if (!data)
 		return (EXIT_FAILURE);
