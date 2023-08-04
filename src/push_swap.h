@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:50:06 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/03 16:02:50 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/04 17:05:18 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,17 +20,30 @@
 
 typedef struct s_data
 {
-	char	**arr;
-	int		i;
-	int		j;
-	t_list	*stack_a;
-	t_list	*stack_b;
-}			t_data;
+	char		**arr;
+	int			i;
+	int			j;
+	t_list		*stack_a;
+	t_list		*stack_b;
+}				t_data;
 
-int			check_args(char **argv, t_data *data, int argc);
-int			check_args1(char **argv, t_data *data);
-void		ft_free_full_arr(char **arr);
-int			init_stack_a(t_data *data);
-void		del_content(void *content);
+int				check_args(char **argv, t_data *data, int argc);
+int				check_args1(char **argv, t_data *data);
+void			ft_free_full_arr(char **arr);
+long long int	ft_atol(const char *str);
+int				init_stack_a(t_data *data);
+void			del_content(void *content);
+void			sa(t_data *data);
+void			sb(t_data *data);
+void			ss(t_data *data);
+void			pb(t_data *data);
+void			pa(t_data *data);
+void			ra(t_data *data);
+void			rb(t_data *data);
+void			rr(t_data *data);
+void			rra(t_data *data);
+void			rrb(t_data *data);
+void			rrr(t_data *data);
+
 
 #endif
