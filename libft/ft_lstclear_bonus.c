@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 13:57:52 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/02 17:19:48 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/07 13:03:26 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@
  * @param lst t_list ** | direccion de memoria de nuestra lista
  * @param del void | puntero a una funcion que elimina
  */
-void	ft_lstclear(t_list **lst, void (*del)(void *))
+void	ft_lstclear(t_list **lst, void (*del)(int))
 {
 	t_list	*aux;
 

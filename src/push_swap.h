@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:50:06 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/04 17:05:18 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/08 15:10:23 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,7 @@ typedef struct s_data
 	char		**arr;
 	int			i;
 	int			j;
+	int			lst_size;
 	t_list		*stack_a;
 	t_list		*stack_b;
 }				t_data;
@@ -32,18 +33,21 @@ int				check_args1(char **argv, t_data *data);
 void			ft_free_full_arr(char **arr);
 long long int	ft_atol(const char *str);
 int				init_stack_a(t_data *data);
-void			del_content(void *content);
+void			del_content(int content);
 void			sa(t_data *data);
 void			sb(t_data *data);
 void			ss(t_data *data);
 void			pb(t_data *data);
 void			pa(t_data *data);
-void			ra(t_data *data);
-void			rb(t_data *data);
+void			ra(t_data *data, int flag);
+void			rb(t_data *data, int flag);
 void			rr(t_data *data);
-void			rra(t_data *data);
-void			rrb(t_data *data);
+void			rra(t_data *data, int flag);
+void			rrb(t_data *data, int flag);
 void			rrr(t_data *data);
-
+void			put_index(t_data *data);
+int				check_order(t_data *data);
+void			sort_all(t_data *data);
+void			sort_3(t_data *data);
 
 #endif

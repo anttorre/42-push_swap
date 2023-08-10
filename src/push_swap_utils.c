@@ -6,15 +6,15 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/01 12:43:44 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/04 14:43:27 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/07 15:33:46 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "push_swap.h"
 
-void	del_content(void *content)
+void	del_content(int content)
 {
-	content = NULL;
+	content = 0;
 }
 
 long long int	ft_atol(const char *str)
@@ -51,7 +51,7 @@ int	int_cmp(t_data *data, long long n)
 		return (EXIT_FAILURE);
 	while (aux != NULL)
 	{
-		if ((long long)aux->content == n)
+		if ((long long)aux->value == n)
 			return (EXIT_FAILURE);
 		aux = aux->next;
 	}
@@ -69,7 +69,7 @@ int	init_stack_a(t_data *data)
 		n = ft_atol(data->arr[data->i]);
 		if (int_cmp(data, n) == EXIT_FAILURE)
 			return (EXIT_FAILURE);
-		new = ft_lstnew((void *)(intptr_t)n);
+		new = ft_lstnew(n, 0, 0, 0);
 		ft_lstadd_back(&data->stack_a, new);
 	}
 	return (EXIT_SUCCESS);

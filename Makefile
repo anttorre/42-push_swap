@@ -1,3 +1,4 @@
+#jot -r 11 1 50 | tr '\n' ' ' | awk '!a[$0]++'   -> Crea 11 numeros random entre 1 y 50 sin repetir
 #//= Colors =//#
 BOLD	:= \033[1m
 BLACK	:= \033[30;1m
@@ -29,7 +30,7 @@ PUSH_SWAP = push_swap.a
 LIB = ar rcs
 
 SRCS = src/push_swap.c src/check_arg_int.c src/push_swap_utils.c src/push_swap_moves.c\
-	src/push_swap_moves_1.c src/push_swap_moves_2.c
+	src/push_swap_moves_1.c src/push_swap_moves_2.c src/algorithm.c
 
 OBJS = $(SRCS:.c=.o)
 
@@ -77,4 +78,6 @@ fclean:
 
 re : fclean all
 
-.PHONY : all re fclean clean bonus
+ps : all clean
+
+.PHONY : all re fclean clean bonus ps
