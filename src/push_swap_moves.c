@@ -6,61 +6,54 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 13:04:21 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/08 14:43:13 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 14:21:52 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "push_swap.h"
 
-void	sa(t_data *data)
+void	sa(t_data *data, int flag)
 {
-	int	size;
-	int	aux;
+	int		size;
+	t_list	*first;
+	t_list	*second;
 
 	size = ft_lstsize(data->stack_a);
 	if (size > 1)
 	{
-		aux = data->stack_a->value;
-		data->stack_a->value = data->stack_a->next->value;
-		data->stack_a->next->value = aux;
+		first = data->stack_a;
+		second = data->stack_a->next;
+		first->next = second->next;
+		second->next = first;
+		data->stack_a = second;
 	}
-	ft_printf("sa\n");
+	if (flag == 1)
+		ft_printf("sa\n");
 }
 
-void	sb(t_data *data)
+void	sb(t_data *data, int flag)
 {
-	int	size;
-	int	aux;
+	int		size;
+	t_list	*first;
+	t_list	*second;
 
 	size = ft_lstsize(data->stack_b);
 	if (size > 1)
 	{
-		aux = data->stack_b->value;
-		data->stack_b->value = data->stack_b->next->value;
-		data->stack_b->next->value = aux;
+		first = data->stack_b;
+		second = data->stack_b->next;
+		first->next = second->next;
+		second->next = first;
+		data->stack_b = second;
 	}
-	ft_printf("sb\n");
+	if (flag == 1)
+		ft_printf("sb\n");
 }
 
 void	ss(t_data *data)
 {
-	int	size;
-	int	aux;
-
-	size = ft_lstsize(data->stack_a);
-	if (size > 1)
-	{
-		aux = data->stack_a->value;
-		data->stack_a->value = data->stack_a->next->value;
-		data->stack_a->next->value = aux;
-	}
-	size = ft_lstsize(data->stack_b);
-	if (size > 1)
-	{
-		aux = data->stack_b->value;
-		data->stack_b->value = data->stack_b->next->value;
-		data->stack_b->next->value = aux;
-	}
+	sa(data, 0);
+	sa(data, 0);
 	ft_printf("ss\n");
 }
 

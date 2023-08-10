@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 15:54:59 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/08 15:07:20 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 14:44:48 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -73,10 +73,9 @@ void	rra(t_data *data, int flag)
 	int		pos;
 	int		target_p;
 
-	value = data->stack_a->value;
-	index = data->stack_a->index;
-	pos = data->stack_a->pos;
-	target_p = data->stack_a->target_pos;
+	index = ft_lstlast(data->stack_a)->index;
+	pos = ft_lstlast(data->stack_a)->pos;
+	target_p = ft_lstlast(data->stack_a)->target_pos;
 	value = ft_lstlast(data->stack_a)->value;
 	ft_lstdelone(ft_lstlast(data->stack_a), &del_content);
 	aux = data->stack_a;
@@ -99,10 +98,9 @@ void	rrb(t_data *data, int flag)
 	int		pos;
 	int		target_p;
 
-	value = data->stack_b->value;
-	index = data->stack_b->index;
-	pos = data->stack_b->pos;
-	target_p = data->stack_b->target_pos;
+	index = ft_lstlast(data->stack_b)->index;
+	pos = ft_lstlast(data->stack_b)->pos;
+	target_p = ft_lstlast(data->stack_b)->target_pos;
 	value = ft_lstlast(data->stack_b)->value;
 	ft_lstdelone(ft_lstlast(data->stack_b), &del_content);
 	aux = data->stack_b;

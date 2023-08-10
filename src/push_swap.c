@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/08 15:20:17 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 15:04:30 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,20 +62,15 @@ int	main1(t_data *data)
 			, ft_printf("Error\n"), EXIT_FAILURE);
 	data->lst_size = ft_lstsize(data->stack_a);
 	put_index(data);
-	/* if (check_order(data) == EXIT_FAILURE)
+	if (check_order(data) == EXIT_FAILURE)
 	{
 		if (data->lst_size == 2)
-			sa(data);
+			sa(data, 1);
 		else if (data->lst_size == 3)
 			sort_3(data);
 		else
 			sort_all(data);
-	} */
-	//ra(data, 1);
-	pb(data);
-	pb(data);
-	pb(data);
-	pa(data);
+	}
 	imprimir_lista_enlazada(data);
 	return (EXIT_SUCCESS);
 }

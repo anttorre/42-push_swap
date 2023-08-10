@@ -30,7 +30,7 @@ PUSH_SWAP = push_swap.a
 LIB = ar rcs
 
 SRCS = src/push_swap.c src/check_arg_int.c src/push_swap_utils.c src/push_swap_moves.c\
-	src/push_swap_moves_1.c src/push_swap_moves_2.c src/algorithm.c
+	src/push_swap_moves_1.c src/push_swap_moves_2.c src/algorithm.c src/algorithm_utils.c
 
 OBJS = $(SRCS:.c=.o)
 

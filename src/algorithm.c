@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 11:39:19 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/08 15:12:38 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 15:17:38 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,29 +63,33 @@ void	sort_3(t_data *data)
 	t_list	*lst;
 
 	lst = data->stack_a;
-	if (lst->index == 3)
+	if (lst->index > lst->next->index && lst->index > lst->next->next->index)
 	{
 		ra(data, 1);
 		lst = data->stack_a;
-		if (lst->next->index == 1)
-			sa(data);
+		if (lst->index > lst->next->index)
+			sa(data, 1);
 	}
-	else if (lst->next->index == 3)
+	else if (lst->next->index > lst->index
+		&& lst->next->index > lst->next->next->index)
 	{
 		rra(data, 1);
 		lst = data->stack_a;
-		if (lst->next->index == 1)
-			sa(data);
+		if (lst->index > lst->next->index)
+			sa(data, 1);
 	}
 	else
-		sa(data);
+		sa(data, 1);
 }
 
 void	sort_all(t_data *data)
 {
-	t_list	*aux;
-
-	aux = data->stack_a;
-	while (aux && ft_lstsize(data->stack_a) > 3)
+	while (ft_lstsize(data->stack_a) > 3)
 		pb(data);
+	sort_3(data);
+	while (data->stack_b)
+	{
+		set_pos(data);
+		
+	}
 }

@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:50:06 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/08 15:10:23 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 15:08:40 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,8 +34,8 @@ void			ft_free_full_arr(char **arr);
 long long int	ft_atol(const char *str);
 int				init_stack_a(t_data *data);
 void			del_content(int content);
-void			sa(t_data *data);
-void			sb(t_data *data);
+void			sa(t_data *data, int flag);
+void			sb(t_data *data, int flag);
 void			ss(t_data *data);
 void			pb(t_data *data);
 void			pa(t_data *data);
@@ -49,5 +49,6 @@ void			put_index(t_data *data);
 int				check_order(t_data *data);
 void			sort_all(t_data *data);
 void			sort_3(t_data *data);
+void			set_pos(t_data *data);
 
 #endif
