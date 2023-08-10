@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 11:39:19 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/10 15:17:38 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 16:53:35 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -78,6 +78,10 @@ void	sort_3(t_data *data)
 		if (lst->index > lst->next->index)
 			sa(data, 1);
 	}
+	else if (lst->index < lst->next->index
+		&& lst->index < lst->next->next->index
+		&& lst->next->index < lst->next->next->index)
+		return ;
 	else
 		sa(data, 1);
 }
@@ -87,9 +91,13 @@ void	sort_all(t_data *data)
 	while (ft_lstsize(data->stack_a) > 3)
 		pb(data);
 	sort_3(data);
-	while (data->stack_b)
+	/* 	while (data->stack_b)
 	{
-		set_pos(data);
 		
-	}
+		
+	}*/
+	set_pos(data);
+	set_target_pos(data);
+	set_cost_b(data);
+	set_cost_a(data);
 }

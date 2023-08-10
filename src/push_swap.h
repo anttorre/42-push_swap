@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:50:06 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/10 15:08:40 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/10 16:51:18 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,5 +50,8 @@ int				check_order(t_data *data);
 void			sort_all(t_data *data);
 void			sort_3(t_data *data);
 void			set_pos(t_data *data);
+void			set_target_pos(t_data *data);
+void			set_cost_b(t_data *data);
+void			set_cost_a(t_data *data);
 
 #endif
