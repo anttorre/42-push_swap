@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/10 15:06:04 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/10 16:56:36 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/11 16:44:29 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,6 +37,7 @@ void	set_pos(t_data *data)
 void	set_target_pos(t_data *data)
 {
 	int		i;
+	int		aux_index;
 	t_list	*aux_a;
 	t_list	*aux_b;
 
@@ -45,15 +46,16 @@ void	set_target_pos(t_data *data)
 	{
 		aux_a = data->stack_a;
 		i = 1;
+		aux_index = MAX_INT;
+		aux_b->target_pos = MAX_INT;
 		while (aux_a)
 		{
-			if (aux_b->index < aux_a->index)
+			if (aux_b->index < aux_a->index && aux_index > aux_a->index)
 			{
+				aux_index = aux_a->index;
 				aux_b->target_pos = i;
-				break ;
 			}
-			i++;
-			if (aux_a->next == NULL)
+			if (i++ && aux_a->next == NULL && aux_b->target_pos == MAX_INT)
 				aux_b->target_pos = i;
 			aux_a = aux_a->next;
 		}
@@ -78,7 +80,7 @@ void	set_cost_b(t_data *data)
 		if (aux->pos <= middle)
 			aux->cost_b = aux->pos - 1;
 		else
-			aux->cost_b = size - aux->pos + 1;
+			aux->cost_b = (size - aux->pos + 1) * -1;
 		aux = aux->next;
 	}
 }
@@ -100,7 +102,48 @@ void	set_cost_a(t_data *data)
 		if (aux->target_pos <= middle)
 			aux->cost_a = aux->target_pos - 1;
 		else
-			aux->cost_a = size - aux->target_pos + 1;
+			aux->cost_a = (size - aux->target_pos + 1) * -1;
 		aux = aux->next;
 	}
+}
+
+void	cheapest_node(t_data *data)
+{
+	t_list	*aux_b;
+	t_list	*node_cheap;
+	int		cost_total;
+
+	aux_b = data->stack_b;
+	node_cheap = aux_b;
+	while (aux_b)
+	{
+		cost_total = cost(aux_b);
+		if (cost_total < cost(node_cheap))
+			node_cheap = aux_b;
+		aux_b = aux_b->next;
+	}
+	ft_printf("\n\n\n%d\n\n\n", node_cheap->index);
+}
+
+int	cost(t_list *aux_b)
+{
+	int	cost_total;
+
+	if (aux_b->cost_a > 0 && aux_b->cost_b > 0)
+	{
+		if (aux_b->cost_a > aux_b->cost_b)
+			cost_total = aux_b->cost_a;
+		else
+			cost_total = aux_b->cost_b;
+	}
+	else if (aux_b->cost_a < 0 && aux_b->cost_b < 0)
+	{
+		if (aux_b->cost_a < aux_b->cost_b)
+			cost_total = aux_b->cost_a * -1;
+		else
+			cost_total = aux_b->cost_b * -1;
+	}
+	else
+		cost_total = abs(aux_b->cost_a) + abs(aux_b->cost_b);
+	return (cost_total);
 }

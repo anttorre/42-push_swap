@@ -1,4 +1,5 @@
 #jot -r 11 1 50 | tr '\n' ' ' | awk '!a[$0]++'   -> Crea 11 numeros random entre 1 y 50 sin repetir
+#./push_swap 58 65 25 11 8 9 2 1 66 42 14 59
 #//= Colors =//#
 BOLD	:= \033[1m
 BLACK	:= \033[30;1m

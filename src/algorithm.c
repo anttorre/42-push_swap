@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 11:39:19 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/10 16:53:35 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/11 16:48:10 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -96,8 +96,11 @@ void	sort_all(t_data *data)
 		
 		
 	}*/
+	pa(data);
+	pa(data);
 	set_pos(data);
 	set_target_pos(data);
 	set_cost_b(data);
 	set_cost_a(data);
+	cheapest_node(data);
 }
