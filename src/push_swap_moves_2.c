@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 17:02:44 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/08 15:10:27 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/14 14:26:09 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,5 +17,5 @@ void	rrr(t_data *data)
 {
 	rra(data, 0);
 	rrb(data, 0);
-	ft_printf("rrr");
+	ft_printf("rrr\n");
 }

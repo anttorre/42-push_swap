@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 11:39:19 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/11 16:48:10 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/14 15:26:22 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -88,19 +88,127 @@ void	sort_3(t_data *data)
 
 void	sort_all(t_data *data)
 {
+	t_list	*cheap_node;
+
 	while (ft_lstsize(data->stack_a) > 3)
 		pb(data);
 	sort_3(data);
-	/* 	while (data->stack_b)
+	while (data->stack_b)
 	{
-		
-		
-	}*/
-	pa(data);
-	pa(data);
-	set_pos(data);
-	set_target_pos(data);
-	set_cost_b(data);
-	set_cost_a(data);
-	cheapest_node(data);
+		set_pos(data);
+		set_target_pos(data);
+		set_cost_b(data);
+		set_cost_a(data);
+		cheap_node = cheapest_node(data);
+		if (cheap_node->cost_a < 0 && cheap_node->cost_b < 0)
+		{
+			if (cheap_node->cost_a > cheap_node->cost_b)
+			{
+				while (cheap_node->cost_b < 0)
+				{
+					rrr(data);
+					cheap_node->cost_b++;
+					cheap_node->cost_a++;
+				}
+				while (cheap_node->cost_a < 0)
+				{
+					rra(data, 1);
+					cheap_node->cost_a++;
+				}
+			}
+			else if (cheap_node->cost_b > cheap_node->cost_a)
+			{
+				while (cheap_node->cost_a < 0)
+				{
+					rrr(data);
+					cheap_node->cost_a++;
+					cheap_node->cost_b++;
+				}
+				while (cheap_node->cost_b < 0)
+				{
+					rrb(data, 1);
+					cheap_node->cost_b++;
+				}
+			}
+			else
+			{
+				while (cheap_node->cost_a && cheap_node->cost_b)
+				{
+					rrr(data);
+					cheap_node->cost_a++;
+					cheap_node->cost_b++;
+				}
+			}
+		}
+		else if (cheap_node->cost_a > 0 && cheap_node->cost_b > 0)
+		{
+			if (cheap_node->cost_a > cheap_node->cost_b)
+			{
+				while (cheap_node->cost_b > 0)
+				{
+					rr(data);
+					cheap_node->cost_b--;
+					cheap_node->cost_a--;
+				}
+				while (cheap_node->cost_a > 0)
+				{
+					ra(data, 1);
+					cheap_node->cost_a--;
+				}
+			}
+			else if (cheap_node->cost_b > cheap_node->cost_a)
+			{
+				while (cheap_node->cost_a > 0)
+				{
+					rr(data);
+					cheap_node->cost_a--;
+					cheap_node->cost_b--;
+				}
+				while (cheap_node->cost_b > 0)
+				{
+					rb(data, 1);
+					cheap_node->cost_b--;
+				}
+			}
+			else
+			{
+				while (cheap_node->cost_a && cheap_node->cost_b)
+				{
+					rr(data);
+					cheap_node->cost_a--;
+					cheap_node->cost_b--;
+				}
+			}
+		}
+		else
+		{
+			if (cheap_node->cost_a >= 0 && cheap_node->cost_b <= 0)
+			{
+				while (cheap_node->cost_a > 0)
+				{
+					ra(data, 1);
+					cheap_node->cost_a--;
+				}
+				while (cheap_node->cost_b < 0)
+				{
+					rrb(data, 1);
+					cheap_node->cost_b++;
+				}
+			}
+			else
+			{
+ 				while (cheap_node->cost_a < 0)
+				{
+					rra(data, 1);
+					cheap_node->cost_a++;
+				}
+				while (cheap_node->cost_b > 0)
+				{
+					rb(data, 1);
+					cheap_node->cost_b--;
+				}
+			}
+		}
+		pa(data);
+	}
 }

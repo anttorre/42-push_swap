@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/10 15:06:04 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/11 16:44:29 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/14 13:17:25 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,7 +56,7 @@ void	set_target_pos(t_data *data)
 				aux_b->target_pos = i;
 			}
 			if (i++ && aux_a->next == NULL && aux_b->target_pos == MAX_INT)
-				aux_b->target_pos = i;
+				aux_b->target_pos = max_index_stack_a(data) + 1;
 			aux_a = aux_a->next;
 		}
 		aux_b = aux_b->next;
@@ -107,7 +107,7 @@ void	set_cost_a(t_data *data)
 	}
 }
 
-void	cheapest_node(t_data *data)
+t_list	*cheapest_node(t_data *data)
 {
 	t_list	*aux_b;
 	t_list	*node_cheap;
@@ -122,28 +122,5 @@ void	cheapest_node(t_data *data)
 			node_cheap = aux_b;
 		aux_b = aux_b->next;
 	}
-	ft_printf("\n\n\n%d\n\n\n", node_cheap->index);
-}
-
-int	cost(t_list *aux_b)
-{
-	int	cost_total;
-
-	if (aux_b->cost_a > 0 && aux_b->cost_b > 0)
-	{
-		if (aux_b->cost_a > aux_b->cost_b)
-			cost_total = aux_b->cost_a;
-		else
-			cost_total = aux_b->cost_b;
-	}
-	else if (aux_b->cost_a < 0 && aux_b->cost_b < 0)
-	{
-		if (aux_b->cost_a < aux_b->cost_b)
-			cost_total = aux_b->cost_a * -1;
-		else
-			cost_total = aux_b->cost_b * -1;
-	}
-	else
-		cost_total = abs(aux_b->cost_a) + abs(aux_b->cost_b);
-	return (cost_total);
+	return (node_cheap);
 }

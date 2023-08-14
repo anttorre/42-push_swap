@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:50:06 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/11 16:44:58 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/14 13:16:48 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -53,7 +53,9 @@ void			set_pos(t_data *data);
 void			set_target_pos(t_data *data);
 void			set_cost_b(t_data *data);
 void			set_cost_a(t_data *data);
-void			cheapest_node(t_data *data);
+t_list			*cheapest_node(t_data *data);
 int				cost(t_list *aux_b);
+void			ra_rra(t_data *data);
+int				max_index_stack_a(t_data *data);
 
 #endif

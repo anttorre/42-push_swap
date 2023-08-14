@@ -1,0 +1,8008 @@
+rra
+NODO: 1
+Value:      500             
+Index:      500             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 2
+Value:      74             
+Index:      74             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 3
+Value:      25             
+Index:      25             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 4
+Value:      92             
+Index:      92             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 5
+Value:      43             
+Index:      43             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 6
+Value:      57             
+Index:      57             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 7
+Value:      86             
+Index:      86             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 8
+Value:      39             
+Index:      39             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 9
+Value:      48             
+Index:      48             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 10
+Value:      16             
+Index:      16             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 11
+Value:      59             
+Index:      59             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 12
+Value:      91             
+Index:      91             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 13
+Value:      38             
+Index:      38             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 14
+Value:      60             
+Index:      60             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 15
+Value:      22             
+Index:      22             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 16
+Value:      96             
+Index:      96             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 17
+Value:      52             
+Index:      52             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 18
+Value:      47             
+Index:      47             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 19
+Value:      31             
+Index:      31             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 20
+Value:      87             
+Index:      87             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 21
+Value:      68             
+Index:      68             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 22
+Value:      83             
+Index:      83             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 23
+Value:      20             
+Index:      20             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 24
+Value:      35             
+Index:      35             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 25
+Value:      79             
+Index:      79             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 26
+Value:      42             
+Index:      42             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 27
+Value:      70             
+Index:      70             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 28
+Value:      64             
+Index:      64             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 29
+Value:      10             
+Index:      10             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 30
+Value:      55             
+Index:      55             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 31
+Value:      69             
+Index:      69             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 32
+Value:      28             
+Index:      28             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 33
+Value:      45             
+Index:      45             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 34
+Value:      89             
+Index:      89             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 35
+Value:      98             
+Index:      98             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 36
+Value:      12             
+Index:      12             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 37
+Value:      65             
+Index:      65             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 38
+Value:      30             
+Index:      30             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 39
+Value:      76             
+Index:      76             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 40
+Value:      36             
+Index:      36             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 41
+Value:      81             
+Index:      81             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 42
+Value:      50             
+Index:      50             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 43
+Value:      66             
+Index:      66             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 44
+Value:      93             
+Index:      93             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 45
+Value:      13             
+Index:      13             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 46
+Value:      19             
+Index:      19             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 47
+Value:      85             
+Index:      85             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 48
+Value:      29             
+Index:      29             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 49
+Value:      54             
+Index:      54             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 50
+Value:      46             
+Index:      46             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 51
+Value:      75             
+Index:      75             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 52
+Value:      23             
+Index:      23             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 53
+Value:      8             
+Index:      8             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 54
+Value:      72             
+Index:      72             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 55
+Value:      32             
+Index:      32             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 56
+Value:      97             
+Index:      97             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 57
+Value:      18             
+Index:      18             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 58
+Value:      61             
+Index:      61             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 59
+Value:      40             
+Index:      40             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 60
+Value:      7             
+Index:      7             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 61
+Value:      15             
+Index:      15             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 62
+Value:      51             
+Index:      51             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 63
+Value:      3             
+Index:      3             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 64
+Value:      37             
+Index:      37             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 65
+Value:      95             
+Index:      95             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 66
+Value:      63             
+Index:      63             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 67
+Value:      99             
+Index:      99             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 68
+Value:      41             
+Index:      41             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 69
+Value:      56             
+Index:      56             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 70
+Value:      14             
+Index:      14             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 71
+Value:      4             
+Index:      4             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 72
+Value:      78             
+Index:      78             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 73
+Value:      2             
+Index:      2             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 74
+Value:      84             
+Index:      84             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 75
+Value:      67             
+Index:      67             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 76
+Value:      90             
+Index:      90             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 77
+Value:      80             
+Index:      80             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 78
+Value:      17             
+Index:      17             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 79
+Value:      26             
+Index:      26             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 80
+Value:      9             
+Index:      9             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 81
+Value:      5             
+Index:      5             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 82
+Value:      21             
+Index:      21             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 83
+Value:      77             
+Index:      77             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 84
+Value:      1             
+Index:      1             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 85
+Value:      49             
+Index:      49             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 86
+Value:      24             
+Index:      24             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 87
+Value:      53             
+Index:      53             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 88
+Value:      71             
+Index:      71             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 89
+Value:      11             
+Index:      11             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 90
+Value:      58             
+Index:      58             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 91
+Value:      94             
+Index:      94             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 92
+Value:      27             
+Index:      27             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 93
+Value:      34             
+Index:      34             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 94
+Value:      82             
+Index:      82             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 95
+Value:      62             
+Index:      62             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 96
+Value:      88             
+Index:      88             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 97
+Value:      6             
+Index:      6             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 98
+Value:      33             
+Index:      33             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 99
+Value:      100             
+Index:      100             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 100
+Value:      73             
+Index:      73             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 101
+Value:      44             
+Index:      44             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 102
+Value:      101             
+Index:      101             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 103
+Value:      102             
+Index:      102             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 104
+Value:      103             
+Index:      103             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 105
+Value:      104             
+Index:      104             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 106
+Value:      105             
+Index:      105             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 107
+Value:      106             
+Index:      106             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 108
+Value:      107             
+Index:      107             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 109
+Value:      108             
+Index:      108             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 110
+Value:      109             
+Index:      109             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 111
+Value:      110             
+Index:      110             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 112
+Value:      111             
+Index:      111             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 113
+Value:      112             
+Index:      112             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 114
+Value:      113             
+Index:      113             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 115
+Value:      114             
+Index:      114             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 116
+Value:      115             
+Index:      115             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 117
+Value:      116             
+Index:      116             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 118
+Value:      117             
+Index:      117             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 119
+Value:      118             
+Index:      118             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 120
+Value:      119             
+Index:      119             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 121
+Value:      120             
+Index:      120             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 122
+Value:      121             
+Index:      121             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 123
+Value:      122             
+Index:      122             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 124
+Value:      123             
+Index:      123             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 125
+Value:      124             
+Index:      124             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 126
+Value:      125             
+Index:      125             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 127
+Value:      126             
+Index:      126             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 128
+Value:      127             
+Index:      127             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 129
+Value:      128             
+Index:      128             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 130
+Value:      129             
+Index:      129             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 131
+Value:      130             
+Index:      130             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 132
+Value:      131             
+Index:      131             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 133
+Value:      132             
+Index:      132             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 134
+Value:      133             
+Index:      133             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 135
+Value:      134             
+Index:      134             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 136
+Value:      135             
+Index:      135             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 137
+Value:      136             
+Index:      136             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 138
+Value:      137             
+Index:      137             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 139
+Value:      138             
+Index:      138             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 140
+Value:      139             
+Index:      139             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 141
+Value:      140             
+Index:      140             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 142
+Value:      141             
+Index:      141             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 143
+Value:      142             
+Index:      142             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 144
+Value:      143             
+Index:      143             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 145
+Value:      144             
+Index:      144             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 146
+Value:      145             
+Index:      145             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 147
+Value:      146             
+Index:      146             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 148
+Value:      147             
+Index:      147             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 149
+Value:      148             
+Index:      148             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 150
+Value:      149             
+Index:      149             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 151
+Value:      150             
+Index:      150             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 152
+Value:      151             
+Index:      151             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 153
+Value:      152             
+Index:      152             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 154
+Value:      153             
+Index:      153             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 155
+Value:      154             
+Index:      154             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 156
+Value:      155             
+Index:      155             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 157
+Value:      156             
+Index:      156             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 158
+Value:      157             
+Index:      157             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 159
+Value:      158             
+Index:      158             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 160
+Value:      159             
+Index:      159             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 161
+Value:      160             
+Index:      160             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 162
+Value:      161             
+Index:      161             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 163
+Value:      162             
+Index:      162             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 164
+Value:      163             
+Index:      163             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 165
+Value:      164             
+Index:      164             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 166
+Value:      165             
+Index:      165             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 167
+Value:      166             
+Index:      166             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 168
+Value:      167             
+Index:      167             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 169
+Value:      168             
+Index:      168             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 170
+Value:      169             
+Index:      169             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 171
+Value:      170             
+Index:      170             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 172
+Value:      171             
+Index:      171             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 173
+Value:      172             
+Index:      172             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 174
+Value:      173             
+Index:      173             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 175
+Value:      174             
+Index:      174             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 176
+Value:      175             
+Index:      175             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 177
+Value:      176             
+Index:      176             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 178
+Value:      177             
+Index:      177             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 179
+Value:      178             
+Index:      178             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 180
+Value:      179             
+Index:      179             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 181
+Value:      180             
+Index:      180             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 182
+Value:      181             
+Index:      181             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 183
+Value:      182             
+Index:      182             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 184
+Value:      183             
+Index:      183             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 185
+Value:      184             
+Index:      184             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 186
+Value:      185             
+Index:      185             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 187
+Value:      186             
+Index:      186             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 188
+Value:      187             
+Index:      187             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 189
+Value:      188             
+Index:      188             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 190
+Value:      189             
+Index:      189             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 191
+Value:      190             
+Index:      190             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 192
+Value:      191             
+Index:      191             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 193
+Value:      192             
+Index:      192             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 194
+Value:      193             
+Index:      193             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 195
+Value:      194             
+Index:      194             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 196
+Value:      195             
+Index:      195             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 197
+Value:      196             
+Index:      196             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 198
+Value:      197             
+Index:      197             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 199
+Value:      198             
+Index:      198             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 200
+Value:      199             
+Index:      199             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 201
+Value:      200             
+Index:      200             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 202
+Value:      201             
+Index:      201             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 203
+Value:      202             
+Index:      202             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 204
+Value:      203             
+Index:      203             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 205
+Value:      204             
+Index:      204             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 206
+Value:      205             
+Index:      205             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 207
+Value:      206             
+Index:      206             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 208
+Value:      207             
+Index:      207             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 209
+Value:      208             
+Index:      208             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 210
+Value:      209             
+Index:      209             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 211
+Value:      210             
+Index:      210             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 212
+Value:      211             
+Index:      211             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 213
+Value:      212             
+Index:      212             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 214
+Value:      213             
+Index:      213             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 215
+Value:      214             
+Index:      214             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 216
+Value:      215             
+Index:      215             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 217
+Value:      216             
+Index:      216             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 218
+Value:      217             
+Index:      217             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 219
+Value:      218             
+Index:      218             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 220
+Value:      219             
+Index:      219             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 221
+Value:      220             
+Index:      220             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 222
+Value:      221             
+Index:      221             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 223
+Value:      222             
+Index:      222             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 224
+Value:      223             
+Index:      223             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 225
+Value:      224             
+Index:      224             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 226
+Value:      225             
+Index:      225             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 227
+Value:      226             
+Index:      226             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 228
+Value:      227             
+Index:      227             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 229
+Value:      228             
+Index:      228             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 230
+Value:      229             
+Index:      229             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 231
+Value:      230             
+Index:      230             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 232
+Value:      231             
+Index:      231             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 233
+Value:      232             
+Index:      232             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 234
+Value:      233             
+Index:      233             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 235
+Value:      234             
+Index:      234             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 236
+Value:      235             
+Index:      235             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 237
+Value:      236             
+Index:      236             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 238
+Value:      237             
+Index:      237             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 239
+Value:      238             
+Index:      238             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 240
+Value:      239             
+Index:      239             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 241
+Value:      240             
+Index:      240             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 242
+Value:      241             
+Index:      241             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 243
+Value:      242             
+Index:      242             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 244
+Value:      243             
+Index:      243             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 245
+Value:      244             
+Index:      244             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 246
+Value:      245             
+Index:      245             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 247
+Value:      246             
+Index:      246             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 248
+Value:      247             
+Index:      247             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 249
+Value:      248             
+Index:      248             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 250
+Value:      249             
+Index:      249             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 251
+Value:      250             
+Index:      250             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 252
+Value:      251             
+Index:      251             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 253
+Value:      252             
+Index:      252             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 254
+Value:      253             
+Index:      253             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 255
+Value:      254             
+Index:      254             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 256
+Value:      255             
+Index:      255             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 257
+Value:      256             
+Index:      256             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 258
+Value:      257             
+Index:      257             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 259
+Value:      258             
+Index:      258             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 260
+Value:      259             
+Index:      259             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 261
+Value:      260             
+Index:      260             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 262
+Value:      261             
+Index:      261             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 263
+Value:      262             
+Index:      262             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 264
+Value:      263             
+Index:      263             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 265
+Value:      264             
+Index:      264             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 266
+Value:      265             
+Index:      265             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 267
+Value:      266             
+Index:      266             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 268
+Value:      267             
+Index:      267             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 269
+Value:      268             
+Index:      268             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 270
+Value:      269             
+Index:      269             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 271
+Value:      270             
+Index:      270             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 272
+Value:      271             
+Index:      271             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 273
+Value:      272             
+Index:      272             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 274
+Value:      273             
+Index:      273             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 275
+Value:      274             
+Index:      274             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 276
+Value:      275             
+Index:      275             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 277
+Value:      276             
+Index:      276             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 278
+Value:      277             
+Index:      277             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 279
+Value:      278             
+Index:      278             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 280
+Value:      279             
+Index:      279             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 281
+Value:      280             
+Index:      280             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 282
+Value:      281             
+Index:      281             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 283
+Value:      282             
+Index:      282             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 284
+Value:      283             
+Index:      283             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 285
+Value:      284             
+Index:      284             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 286
+Value:      285             
+Index:      285             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 287
+Value:      286             
+Index:      286             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 288
+Value:      287             
+Index:      287             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 289
+Value:      288             
+Index:      288             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 290
+Value:      289             
+Index:      289             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 291
+Value:      290             
+Index:      290             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 292
+Value:      291             
+Index:      291             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 293
+Value:      292             
+Index:      292             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 294
+Value:      293             
+Index:      293             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 295
+Value:      294             
+Index:      294             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 296
+Value:      295             
+Index:      295             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 297
+Value:      296             
+Index:      296             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 298
+Value:      297             
+Index:      297             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 299
+Value:      298             
+Index:      298             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 300
+Value:      299             
+Index:      299             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 301
+Value:      300             
+Index:      300             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 302
+Value:      301             
+Index:      301             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 303
+Value:      302             
+Index:      302             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 304
+Value:      303             
+Index:      303             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 305
+Value:      304             
+Index:      304             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 306
+Value:      305             
+Index:      305             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 307
+Value:      306             
+Index:      306             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 308
+Value:      307             
+Index:      307             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 309
+Value:      308             
+Index:      308             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 310
+Value:      309             
+Index:      309             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 311
+Value:      310             
+Index:      310             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 312
+Value:      311             
+Index:      311             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 313
+Value:      312             
+Index:      312             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 314
+Value:      313             
+Index:      313             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 315
+Value:      314             
+Index:      314             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 316
+Value:      315             
+Index:      315             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 317
+Value:      316             
+Index:      316             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 318
+Value:      317             
+Index:      317             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 319
+Value:      318             
+Index:      318             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 320
+Value:      319             
+Index:      319             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 321
+Value:      320             
+Index:      320             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 322
+Value:      321             
+Index:      321             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 323
+Value:      322             
+Index:      322             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 324
+Value:      323             
+Index:      323             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 325
+Value:      324             
+Index:      324             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 326
+Value:      325             
+Index:      325             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 327
+Value:      326             
+Index:      326             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 328
+Value:      327             
+Index:      327             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 329
+Value:      328             
+Index:      328             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 330
+Value:      329             
+Index:      329             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 331
+Value:      330             
+Index:      330             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 332
+Value:      331             
+Index:      331             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 333
+Value:      332             
+Index:      332             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 334
+Value:      333             
+Index:      333             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 335
+Value:      334             
+Index:      334             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 336
+Value:      335             
+Index:      335             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 337
+Value:      336             
+Index:      336             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 338
+Value:      337             
+Index:      337             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 339
+Value:      338             
+Index:      338             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 340
+Value:      339             
+Index:      339             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 341
+Value:      340             
+Index:      340             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 342
+Value:      341             
+Index:      341             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 343
+Value:      342             
+Index:      342             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 344
+Value:      343             
+Index:      343             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 345
+Value:      344             
+Index:      344             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 346
+Value:      345             
+Index:      345             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 347
+Value:      346             
+Index:      346             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 348
+Value:      347             
+Index:      347             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 349
+Value:      348             
+Index:      348             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 350
+Value:      349             
+Index:      349             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 351
+Value:      350             
+Index:      350             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 352
+Value:      351             
+Index:      351             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 353
+Value:      352             
+Index:      352             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 354
+Value:      353             
+Index:      353             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 355
+Value:      354             
+Index:      354             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 356
+Value:      355             
+Index:      355             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 357
+Value:      356             
+Index:      356             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 358
+Value:      357             
+Index:      357             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 359
+Value:      358             
+Index:      358             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 360
+Value:      359             
+Index:      359             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 361
+Value:      360             
+Index:      360             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 362
+Value:      361             
+Index:      361             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 363
+Value:      362             
+Index:      362             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 364
+Value:      363             
+Index:      363             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 365
+Value:      364             
+Index:      364             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 366
+Value:      365             
+Index:      365             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 367
+Value:      366             
+Index:      366             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 368
+Value:      367             
+Index:      367             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 369
+Value:      368             
+Index:      368             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 370
+Value:      369             
+Index:      369             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 371
+Value:      370             
+Index:      370             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 372
+Value:      371             
+Index:      371             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 373
+Value:      372             
+Index:      372             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 374
+Value:      373             
+Index:      373             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 375
+Value:      374             
+Index:      374             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 376
+Value:      375             
+Index:      375             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 377
+Value:      376             
+Index:      376             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 378
+Value:      377             
+Index:      377             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 379
+Value:      378             
+Index:      378             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 380
+Value:      379             
+Index:      379             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 381
+Value:      380             
+Index:      380             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 382
+Value:      381             
+Index:      381             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 383
+Value:      382             
+Index:      382             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 384
+Value:      383             
+Index:      383             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 385
+Value:      384             
+Index:      384             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 386
+Value:      385             
+Index:      385             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 387
+Value:      386             
+Index:      386             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 388
+Value:      387             
+Index:      387             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 389
+Value:      388             
+Index:      388             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 390
+Value:      389             
+Index:      389             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 391
+Value:      390             
+Index:      390             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 392
+Value:      391             
+Index:      391             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 393
+Value:      392             
+Index:      392             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 394
+Value:      393             
+Index:      393             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 395
+Value:      394             
+Index:      394             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 396
+Value:      395             
+Index:      395             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 397
+Value:      396             
+Index:      396             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 398
+Value:      397             
+Index:      397             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 399
+Value:      398             
+Index:      398             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 400
+Value:      399             
+Index:      399             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 401
+Value:      400             
+Index:      400             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 402
+Value:      401             
+Index:      401             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 403
+Value:      402             
+Index:      402             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 404
+Value:      403             
+Index:      403             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 405
+Value:      404             
+Index:      404             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 406
+Value:      405             
+Index:      405             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 407
+Value:      406             
+Index:      406             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 408
+Value:      407             
+Index:      407             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 409
+Value:      408             
+Index:      408             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 410
+Value:      409             
+Index:      409             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 411
+Value:      410             
+Index:      410             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 412
+Value:      411             
+Index:      411             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 413
+Value:      412             
+Index:      412             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 414
+Value:      413             
+Index:      413             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 415
+Value:      414             
+Index:      414             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 416
+Value:      415             
+Index:      415             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 417
+Value:      416             
+Index:      416             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 418
+Value:      417             
+Index:      417             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 419
+Value:      418             
+Index:      418             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 420
+Value:      419             
+Index:      419             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 421
+Value:      420             
+Index:      420             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 422
+Value:      421             
+Index:      421             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 423
+Value:      422             
+Index:      422             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 424
+Value:      423             
+Index:      423             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 425
+Value:      424             
+Index:      424             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 426
+Value:      425             
+Index:      425             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 427
+Value:      426             
+Index:      426             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 428
+Value:      427             
+Index:      427             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 429
+Value:      428             
+Index:      428             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 430
+Value:      429             
+Index:      429             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 431
+Value:      430             
+Index:      430             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 432
+Value:      431             
+Index:      431             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 433
+Value:      432             
+Index:      432             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 434
+Value:      433             
+Index:      433             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 435
+Value:      434             
+Index:      434             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 436
+Value:      435             
+Index:      435             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 437
+Value:      436             
+Index:      436             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 438
+Value:      437             
+Index:      437             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 439
+Value:      438             
+Index:      438             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 440
+Value:      439             
+Index:      439             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 441
+Value:      440             
+Index:      440             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 442
+Value:      441             
+Index:      441             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 443
+Value:      442             
+Index:      442             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 444
+Value:      443             
+Index:      443             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 445
+Value:      444             
+Index:      444             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 446
+Value:      445             
+Index:      445             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 447
+Value:      446             
+Index:      446             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 448
+Value:      447             
+Index:      447             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 449
+Value:      448             
+Index:      448             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 450
+Value:      449             
+Index:      449             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 451
+Value:      450             
+Index:      450             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 452
+Value:      451             
+Index:      451             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 453
+Value:      452             
+Index:      452             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 454
+Value:      453             
+Index:      453             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 455
+Value:      454             
+Index:      454             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 456
+Value:      455             
+Index:      455             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 457
+Value:      456             
+Index:      456             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 458
+Value:      457             
+Index:      457             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 459
+Value:      458             
+Index:      458             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 460
+Value:      459             
+Index:      459             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 461
+Value:      460             
+Index:      460             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 462
+Value:      461             
+Index:      461             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 463
+Value:      462             
+Index:      462             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 464
+Value:      463             
+Index:      463             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 465
+Value:      464             
+Index:      464             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 466
+Value:      465             
+Index:      465             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 467
+Value:      466             
+Index:      466             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 468
+Value:      467             
+Index:      467             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 469
+Value:      468             
+Index:      468             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 470
+Value:      469             
+Index:      469             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 471
+Value:      470             
+Index:      470             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 472
+Value:      471             
+Index:      471             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 473
+Value:      472             
+Index:      472             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 474
+Value:      473             
+Index:      473             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 475
+Value:      474             
+Index:      474             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 476
+Value:      475             
+Index:      475             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 477
+Value:      476             
+Index:      476             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 478
+Value:      477             
+Index:      477             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 479
+Value:      478             
+Index:      478             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 480
+Value:      479             
+Index:      479             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 481
+Value:      480             
+Index:      480             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 482
+Value:      481             
+Index:      481             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 483
+Value:      482             
+Index:      482             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 484
+Value:      483             
+Index:      483             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 485
+Value:      484             
+Index:      484             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 486
+Value:      485             
+Index:      485             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 487
+Value:      486             
+Index:      486             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 488
+Value:      487             
+Index:      487             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 489
+Value:      488             
+Index:      488             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 490
+Value:      489             
+Index:      489             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 491
+Value:      490             
+Index:      490             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 492
+Value:      491             
+Index:      491             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 493
+Value:      492             
+Index:      492             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 494
+Value:      493             
+Index:      493             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 495
+Value:      494             
+Index:      494             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 496
+Value:      495             
+Index:      495             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 497
+Value:      496             
+Index:      496             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 498
+Value:      497             
+Index:      497             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 499
+Value:      498             
+Index:      498             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 500
+Value:      499             
+Index:      499             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+            -            -
+            a            b
+
+rra
+NODO: 1
+Value:      500             
+Index:      500             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 2
+Value:      74             
+Index:      74             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 3
+Value:      25             
+Index:      25             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 4
+Value:      92             
+Index:      92             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 5
+Value:      43             
+Index:      43             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 6
+Value:      57             
+Index:      57             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 7
+Value:      86             
+Index:      86             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 8
+Value:      39             
+Index:      39             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 9
+Value:      48             
+Index:      48             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 10
+Value:      16             
+Index:      16             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 11
+Value:      59             
+Index:      59             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 12
+Value:      91             
+Index:      91             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 13
+Value:      38             
+Index:      38             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 14
+Value:      60             
+Index:      60             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 15
+Value:      22             
+Index:      22             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 16
+Value:      96             
+Index:      96             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 17
+Value:      52             
+Index:      52             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 18
+Value:      47             
+Index:      47             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 19
+Value:      31             
+Index:      31             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 20
+Value:      87             
+Index:      87             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 21
+Value:      68             
+Index:      68             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 22
+Value:      83             
+Index:      83             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 23
+Value:      20             
+Index:      20             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 24
+Value:      35             
+Index:      35             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 25
+Value:      79             
+Index:      79             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 26
+Value:      42             
+Index:      42             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 27
+Value:      70             
+Index:      70             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 28
+Value:      64             
+Index:      64             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 29
+Value:      10             
+Index:      10             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 30
+Value:      55             
+Index:      55             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 31
+Value:      69             
+Index:      69             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 32
+Value:      28             
+Index:      28             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 33
+Value:      45             
+Index:      45             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 34
+Value:      89             
+Index:      89             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 35
+Value:      98             
+Index:      98             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 36
+Value:      12             
+Index:      12             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 37
+Value:      65             
+Index:      65             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 38
+Value:      30             
+Index:      30             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 39
+Value:      76             
+Index:      76             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 40
+Value:      36             
+Index:      36             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 41
+Value:      81             
+Index:      81             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 42
+Value:      50             
+Index:      50             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 43
+Value:      66             
+Index:      66             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 44
+Value:      93             
+Index:      93             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 45
+Value:      13             
+Index:      13             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 46
+Value:      19             
+Index:      19             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 47
+Value:      85             
+Index:      85             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 48
+Value:      29             
+Index:      29             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 49
+Value:      54             
+Index:      54             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 50
+Value:      46             
+Index:      46             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 51
+Value:      75             
+Index:      75             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 52
+Value:      23             
+Index:      23             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 53
+Value:      8             
+Index:      8             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 54
+Value:      72             
+Index:      72             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 55
+Value:      32             
+Index:      32             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 56
+Value:      97             
+Index:      97             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 57
+Value:      18             
+Index:      18             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 58
+Value:      61             
+Index:      61             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 59
+Value:      40             
+Index:      40             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 60
+Value:      7             
+Index:      7             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 61
+Value:      15             
+Index:      15             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 62
+Value:      51             
+Index:      51             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 63
+Value:      3             
+Index:      3             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 64
+Value:      37             
+Index:      37             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 65
+Value:      95             
+Index:      95             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 66
+Value:      63             
+Index:      63             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 67
+Value:      99             
+Index:      99             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 68
+Value:      41             
+Index:      41             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 69
+Value:      56             
+Index:      56             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 70
+Value:      14             
+Index:      14             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 71
+Value:      4             
+Index:      4             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 72
+Value:      78             
+Index:      78             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 73
+Value:      2             
+Index:      2             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 74
+Value:      84             
+Index:      84             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 75
+Value:      67             
+Index:      67             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 76
+Value:      90             
+Index:      90             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 77
+Value:      80             
+Index:      80             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 78
+Value:      17             
+Index:      17             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 79
+Value:      26             
+Index:      26             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 80
+Value:      9             
+Index:      9             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 81
+Value:      5             
+Index:      5             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 82
+Value:      21             
+Index:      21             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 83
+Value:      77             
+Index:      77             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 84
+Value:      1             
+Index:      1             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 85
+Value:      49             
+Index:      49             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 86
+Value:      24             
+Index:      24             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 87
+Value:      53             
+Index:      53             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 88
+Value:      71             
+Index:      71             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 89
+Value:      11             
+Index:      11             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 90
+Value:      58             
+Index:      58             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 91
+Value:      94             
+Index:      94             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 92
+Value:      27             
+Index:      27             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 93
+Value:      34             
+Index:      34             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 94
+Value:      82             
+Index:      82             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 95
+Value:      62             
+Index:      62             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 96
+Value:      88             
+Index:      88             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 97
+Value:      6             
+Index:      6             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 98
+Value:      33             
+Index:      33             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 99
+Value:      100             
+Index:      100             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 100
+Value:      73             
+Index:      73             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 101
+Value:      44             
+Index:      44             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 102
+Value:      101             
+Index:      101             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 103
+Value:      102             
+Index:      102             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 104
+Value:      103             
+Index:      103             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 105
+Value:      104             
+Index:      104             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 106
+Value:      105             
+Index:      105             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 107
+Value:      106             
+Index:      106             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 108
+Value:      107             
+Index:      107             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 109
+Value:      108             
+Index:      108             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 110
+Value:      109             
+Index:      109             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 111
+Value:      110             
+Index:      110             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 112
+Value:      111             
+Index:      111             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 113
+Value:      112             
+Index:      112             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 114
+Value:      113             
+Index:      113             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 115
+Value:      114             
+Index:      114             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 116
+Value:      115             
+Index:      115             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 117
+Value:      116             
+Index:      116             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 118
+Value:      117             
+Index:      117             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 119
+Value:      118             
+Index:      118             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 120
+Value:      119             
+Index:      119             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 121
+Value:      120             
+Index:      120             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 122
+Value:      121             
+Index:      121             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 123
+Value:      122             
+Index:      122             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 124
+Value:      123             
+Index:      123             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 125
+Value:      124             
+Index:      124             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 126
+Value:      125             
+Index:      125             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 127
+Value:      126             
+Index:      126             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 128
+Value:      127             
+Index:      127             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 129
+Value:      128             
+Index:      128             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 130
+Value:      129             
+Index:      129             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 131
+Value:      130             
+Index:      130             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 132
+Value:      131             
+Index:      131             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 133
+Value:      132             
+Index:      132             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 134
+Value:      133             
+Index:      133             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 135
+Value:      134             
+Index:      134             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 136
+Value:      135             
+Index:      135             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 137
+Value:      136             
+Index:      136             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 138
+Value:      137             
+Index:      137             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 139
+Value:      138             
+Index:      138             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 140
+Value:      139             
+Index:      139             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 141
+Value:      140             
+Index:      140             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 142
+Value:      141             
+Index:      141             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 143
+Value:      142             
+Index:      142             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 144
+Value:      143             
+Index:      143             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 145
+Value:      144             
+Index:      144             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 146
+Value:      145             
+Index:      145             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 147
+Value:      146             
+Index:      146             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 148
+Value:      147             
+Index:      147             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 149
+Value:      148             
+Index:      148             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 150
+Value:      149             
+Index:      149             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 151
+Value:      150             
+Index:      150             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 152
+Value:      151             
+Index:      151             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 153
+Value:      152             
+Index:      152             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 154
+Value:      153             
+Index:      153             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 155
+Value:      154             
+Index:      154             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 156
+Value:      155             
+Index:      155             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 157
+Value:      156             
+Index:      156             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 158
+Value:      157             
+Index:      157             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 159
+Value:      158             
+Index:      158             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 160
+Value:      159             
+Index:      159             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 161
+Value:      160             
+Index:      160             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 162
+Value:      161             
+Index:      161             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 163
+Value:      162             
+Index:      162             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 164
+Value:      163             
+Index:      163             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 165
+Value:      164             
+Index:      164             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 166
+Value:      165             
+Index:      165             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 167
+Value:      166             
+Index:      166             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 168
+Value:      167             
+Index:      167             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 169
+Value:      168             
+Index:      168             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 170
+Value:      169             
+Index:      169             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 171
+Value:      170             
+Index:      170             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 172
+Value:      171             
+Index:      171             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 173
+Value:      172             
+Index:      172             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 174
+Value:      173             
+Index:      173             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 175
+Value:      174             
+Index:      174             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 176
+Value:      175             
+Index:      175             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 177
+Value:      176             
+Index:      176             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 178
+Value:      177             
+Index:      177             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 179
+Value:      178             
+Index:      178             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 180
+Value:      179             
+Index:      179             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 181
+Value:      180             
+Index:      180             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 182
+Value:      181             
+Index:      181             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 183
+Value:      182             
+Index:      182             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 184
+Value:      183             
+Index:      183             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 185
+Value:      184             
+Index:      184             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 186
+Value:      185             
+Index:      185             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 187
+Value:      186             
+Index:      186             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 188
+Value:      187             
+Index:      187             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 189
+Value:      188             
+Index:      188             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 190
+Value:      189             
+Index:      189             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 191
+Value:      190             
+Index:      190             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 192
+Value:      191             
+Index:      191             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 193
+Value:      192             
+Index:      192             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 194
+Value:      193             
+Index:      193             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 195
+Value:      194             
+Index:      194             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 196
+Value:      195             
+Index:      195             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 197
+Value:      196             
+Index:      196             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 198
+Value:      197             
+Index:      197             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 199
+Value:      198             
+Index:      198             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 200
+Value:      199             
+Index:      199             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 201
+Value:      200             
+Index:      200             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 202
+Value:      201             
+Index:      201             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 203
+Value:      202             
+Index:      202             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 204
+Value:      203             
+Index:      203             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 205
+Value:      204             
+Index:      204             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 206
+Value:      205             
+Index:      205             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 207
+Value:      206             
+Index:      206             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 208
+Value:      207             
+Index:      207             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 209
+Value:      208             
+Index:      208             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 210
+Value:      209             
+Index:      209             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 211
+Value:      210             
+Index:      210             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 212
+Value:      211             
+Index:      211             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 213
+Value:      212             
+Index:      212             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 214
+Value:      213             
+Index:      213             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 215
+Value:      214             
+Index:      214             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 216
+Value:      215             
+Index:      215             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 217
+Value:      216             
+Index:      216             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 218
+Value:      217             
+Index:      217             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 219
+Value:      218             
+Index:      218             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 220
+Value:      219             
+Index:      219             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 221
+Value:      220             
+Index:      220             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 222
+Value:      221             
+Index:      221             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 223
+Value:      222             
+Index:      222             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 224
+Value:      223             
+Index:      223             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 225
+Value:      224             
+Index:      224             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 226
+Value:      225             
+Index:      225             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 227
+Value:      226             
+Index:      226             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 228
+Value:      227             
+Index:      227             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 229
+Value:      228             
+Index:      228             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 230
+Value:      229             
+Index:      229             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 231
+Value:      230             
+Index:      230             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 232
+Value:      231             
+Index:      231             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 233
+Value:      232             
+Index:      232             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 234
+Value:      233             
+Index:      233             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 235
+Value:      234             
+Index:      234             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 236
+Value:      235             
+Index:      235             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 237
+Value:      236             
+Index:      236             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 238
+Value:      237             
+Index:      237             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 239
+Value:      238             
+Index:      238             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 240
+Value:      239             
+Index:      239             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 241
+Value:      240             
+Index:      240             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 242
+Value:      241             
+Index:      241             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 243
+Value:      242             
+Index:      242             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 244
+Value:      243             
+Index:      243             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 245
+Value:      244             
+Index:      244             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 246
+Value:      245             
+Index:      245             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 247
+Value:      246             
+Index:      246             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 248
+Value:      247             
+Index:      247             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 249
+Value:      248             
+Index:      248             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 250
+Value:      249             
+Index:      249             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 251
+Value:      250             
+Index:      250             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 252
+Value:      251             
+Index:      251             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 253
+Value:      252             
+Index:      252             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 254
+Value:      253             
+Index:      253             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 255
+Value:      254             
+Index:      254             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 256
+Value:      255             
+Index:      255             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 257
+Value:      256             
+Index:      256             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 258
+Value:      257             
+Index:      257             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 259
+Value:      258             
+Index:      258             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 260
+Value:      259             
+Index:      259             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 261
+Value:      260             
+Index:      260             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 262
+Value:      261             
+Index:      261             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 263
+Value:      262             
+Index:      262             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 264
+Value:      263             
+Index:      263             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 265
+Value:      264             
+Index:      264             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 266
+Value:      265             
+Index:      265             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 267
+Value:      266             
+Index:      266             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 268
+Value:      267             
+Index:      267             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 269
+Value:      268             
+Index:      268             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 270
+Value:      269             
+Index:      269             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 271
+Value:      270             
+Index:      270             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 272
+Value:      271             
+Index:      271             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 273
+Value:      272             
+Index:      272             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 274
+Value:      273             
+Index:      273             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 275
+Value:      274             
+Index:      274             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 276
+Value:      275             
+Index:      275             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 277
+Value:      276             
+Index:      276             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 278
+Value:      277             
+Index:      277             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 279
+Value:      278             
+Index:      278             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 280
+Value:      279             
+Index:      279             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 281
+Value:      280             
+Index:      280             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 282
+Value:      281             
+Index:      281             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 283
+Value:      282             
+Index:      282             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 284
+Value:      283             
+Index:      283             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 285
+Value:      284             
+Index:      284             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 286
+Value:      285             
+Index:      285             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 287
+Value:      286             
+Index:      286             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 288
+Value:      287             
+Index:      287             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 289
+Value:      288             
+Index:      288             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 290
+Value:      289             
+Index:      289             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 291
+Value:      290             
+Index:      290             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 292
+Value:      291             
+Index:      291             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 293
+Value:      292             
+Index:      292             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 294
+Value:      293             
+Index:      293             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 295
+Value:      294             
+Index:      294             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 296
+Value:      295             
+Index:      295             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 297
+Value:      296             
+Index:      296             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 298
+Value:      297             
+Index:      297             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 299
+Value:      298             
+Index:      298             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 300
+Value:      299             
+Index:      299             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 301
+Value:      300             
+Index:      300             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 302
+Value:      301             
+Index:      301             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 303
+Value:      302             
+Index:      302             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 304
+Value:      303             
+Index:      303             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 305
+Value:      304             
+Index:      304             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 306
+Value:      305             
+Index:      305             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 307
+Value:      306             
+Index:      306             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 308
+Value:      307             
+Index:      307             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 309
+Value:      308             
+Index:      308             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 310
+Value:      309             
+Index:      309             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 311
+Value:      310             
+Index:      310             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 312
+Value:      311             
+Index:      311             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 313
+Value:      312             
+Index:      312             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 314
+Value:      313             
+Index:      313             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 315
+Value:      314             
+Index:      314             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 316
+Value:      315             
+Index:      315             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 317
+Value:      316             
+Index:      316             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 318
+Value:      317             
+Index:      317             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 319
+Value:      318             
+Index:      318             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 320
+Value:      319             
+Index:      319             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 321
+Value:      320             
+Index:      320             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 322
+Value:      321             
+Index:      321             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 323
+Value:      322             
+Index:      322             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 324
+Value:      323             
+Index:      323             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 325
+Value:      324             
+Index:      324             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 326
+Value:      325             
+Index:      325             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 327
+Value:      326             
+Index:      326             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 328
+Value:      327             
+Index:      327             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 329
+Value:      328             
+Index:      328             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 330
+Value:      329             
+Index:      329             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 331
+Value:      330             
+Index:      330             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 332
+Value:      331             
+Index:      331             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 333
+Value:      332             
+Index:      332             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 334
+Value:      333             
+Index:      333             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 335
+Value:      334             
+Index:      334             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 336
+Value:      335             
+Index:      335             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 337
+Value:      336             
+Index:      336             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 338
+Value:      337             
+Index:      337             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 339
+Value:      338             
+Index:      338             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 340
+Value:      339             
+Index:      339             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 341
+Value:      340             
+Index:      340             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 342
+Value:      341             
+Index:      341             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 343
+Value:      342             
+Index:      342             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 344
+Value:      343             
+Index:      343             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 345
+Value:      344             
+Index:      344             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 346
+Value:      345             
+Index:      345             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 347
+Value:      346             
+Index:      346             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 348
+Value:      347             
+Index:      347             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 349
+Value:      348             
+Index:      348             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 350
+Value:      349             
+Index:      349             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 351
+Value:      350             
+Index:      350             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 352
+Value:      351             
+Index:      351             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 353
+Value:      352             
+Index:      352             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 354
+Value:      353             
+Index:      353             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 355
+Value:      354             
+Index:      354             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 356
+Value:      355             
+Index:      355             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 357
+Value:      356             
+Index:      356             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 358
+Value:      357             
+Index:      357             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 359
+Value:      358             
+Index:      358             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 360
+Value:      359             
+Index:      359             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 361
+Value:      360             
+Index:      360             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 362
+Value:      361             
+Index:      361             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 363
+Value:      362             
+Index:      362             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 364
+Value:      363             
+Index:      363             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 365
+Value:      364             
+Index:      364             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 366
+Value:      365             
+Index:      365             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 367
+Value:      366             
+Index:      366             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 368
+Value:      367             
+Index:      367             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 369
+Value:      368             
+Index:      368             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 370
+Value:      369             
+Index:      369             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 371
+Value:      370             
+Index:      370             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 372
+Value:      371             
+Index:      371             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 373
+Value:      372             
+Index:      372             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 374
+Value:      373             
+Index:      373             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 375
+Value:      374             
+Index:      374             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 376
+Value:      375             
+Index:      375             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 377
+Value:      376             
+Index:      376             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 378
+Value:      377             
+Index:      377             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 379
+Value:      378             
+Index:      378             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 380
+Value:      379             
+Index:      379             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 381
+Value:      380             
+Index:      380             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 382
+Value:      381             
+Index:      381             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 383
+Value:      382             
+Index:      382             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 384
+Value:      383             
+Index:      383             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 385
+Value:      384             
+Index:      384             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 386
+Value:      385             
+Index:      385             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 387
+Value:      386             
+Index:      386             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 388
+Value:      387             
+Index:      387             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 389
+Value:      388             
+Index:      388             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 390
+Value:      389             
+Index:      389             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 391
+Value:      390             
+Index:      390             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 392
+Value:      391             
+Index:      391             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 393
+Value:      392             
+Index:      392             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 394
+Value:      393             
+Index:      393             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 395
+Value:      394             
+Index:      394             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 396
+Value:      395             
+Index:      395             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 397
+Value:      396             
+Index:      396             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 398
+Value:      397             
+Index:      397             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 399
+Value:      398             
+Index:      398             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 400
+Value:      399             
+Index:      399             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 401
+Value:      400             
+Index:      400             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 402
+Value:      401             
+Index:      401             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 403
+Value:      402             
+Index:      402             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 404
+Value:      403             
+Index:      403             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 405
+Value:      404             
+Index:      404             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 406
+Value:      405             
+Index:      405             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 407
+Value:      406             
+Index:      406             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 408
+Value:      407             
+Index:      407             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 409
+Value:      408             
+Index:      408             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 410
+Value:      409             
+Index:      409             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 411
+Value:      410             
+Index:      410             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 412
+Value:      411             
+Index:      411             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 413
+Value:      412             
+Index:      412             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 414
+Value:      413             
+Index:      413             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 415
+Value:      414             
+Index:      414             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 416
+Value:      415             
+Index:      415             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 417
+Value:      416             
+Index:      416             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 418
+Value:      417             
+Index:      417             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 419
+Value:      418             
+Index:      418             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 420
+Value:      419             
+Index:      419             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 421
+Value:      420             
+Index:      420             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 422
+Value:      421             
+Index:      421             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 423
+Value:      422             
+Index:      422             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 424
+Value:      423             
+Index:      423             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 425
+Value:      424             
+Index:      424             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 426
+Value:      425             
+Index:      425             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 427
+Value:      426             
+Index:      426             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 428
+Value:      427             
+Index:      427             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 429
+Value:      428             
+Index:      428             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 430
+Value:      429             
+Index:      429             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 431
+Value:      430             
+Index:      430             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 432
+Value:      431             
+Index:      431             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 433
+Value:      432             
+Index:      432             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 434
+Value:      433             
+Index:      433             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 435
+Value:      434             
+Index:      434             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 436
+Value:      435             
+Index:      435             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 437
+Value:      436             
+Index:      436             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 438
+Value:      437             
+Index:      437             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 439
+Value:      438             
+Index:      438             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 440
+Value:      439             
+Index:      439             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 441
+Value:      440             
+Index:      440             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 442
+Value:      441             
+Index:      441             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 443
+Value:      442             
+Index:      442             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 444
+Value:      443             
+Index:      443             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 445
+Value:      444             
+Index:      444             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 446
+Value:      445             
+Index:      445             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 447
+Value:      446             
+Index:      446             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 448
+Value:      447             
+Index:      447             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 449
+Value:      448             
+Index:      448             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 450
+Value:      449             
+Index:      449             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 451
+Value:      450             
+Index:      450             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 452
+Value:      451             
+Index:      451             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 453
+Value:      452             
+Index:      452             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 454
+Value:      453             
+Index:      453             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 455
+Value:      454             
+Index:      454             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 456
+Value:      455             
+Index:      455             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 457
+Value:      456             
+Index:      456             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 458
+Value:      457             
+Index:      457             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 459
+Value:      458             
+Index:      458             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 460
+Value:      459             
+Index:      459             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 461
+Value:      460             
+Index:      460             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 462
+Value:      461             
+Index:      461             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 463
+Value:      462             
+Index:      462             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 464
+Value:      463             
+Index:      463             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 465
+Value:      464             
+Index:      464             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 466
+Value:      465             
+Index:      465             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 467
+Value:      466             
+Index:      466             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 468
+Value:      467             
+Index:      467             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 469
+Value:      468             
+Index:      468             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 470
+Value:      469             
+Index:      469             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 471
+Value:      470             
+Index:      470             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 472
+Value:      471             
+Index:      471             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 473
+Value:      472             
+Index:      472             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 474
+Value:      473             
+Index:      473             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 475
+Value:      474             
+Index:      474             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 476
+Value:      475             
+Index:      475             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 477
+Value:      476             
+Index:      476             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 478
+Value:      477             
+Index:      477             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 479
+Value:      478             
+Index:      478             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 480
+Value:      479             
+Index:      479             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 481
+Value:      480             
+Index:      480             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 482
+Value:      481             
+Index:      481             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 483
+Value:      482             
+Index:      482             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 484
+Value:      483             
+Index:      483             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 485
+Value:      484             
+Index:      484             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 486
+Value:      485             
+Index:      485             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 487
+Value:      486             
+Index:      486             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 488
+Value:      487             
+Index:      487             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 489
+Value:      488             
+Index:      488             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 490
+Value:      489             
+Index:      489             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 491
+Value:      490             
+Index:      490             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 492
+Value:      491             
+Index:      491             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 493
+Value:      492             
+Index:      492             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 494
+Value:      493             
+Index:      493             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 495
+Value:      494             
+Index:      494             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 496
+Value:      495             
+Index:      495             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 497
+Value:      496             
+Index:      496             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 498
+Value:      497             
+Index:      497             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 499
+Value:      498             
+Index:      498             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+NODO: 500
+Value:      499             
+Index:      499             
+Pos:        0             
+Target_pos: 0             
+Cost_a:     0             
+Cost_b:     0             
+               
+            -            -
+            a            b
+
