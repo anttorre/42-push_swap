@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/14 12:31:38 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 11:02:01 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/16 11:41:17 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,39 +80,56 @@ void	sort_all_1(t_data *data, t_list *cheap_node)
 {
 	if (cheap_node->cost_a > cheap_node->cost_b)
 	{
-		while (cheap_node->cost_a < 0)
+		while (cheap_node->cost_a++ < 0)
 		{
 			rrr(data);
 			cheap_node->cost_b++;
-			cheap_node->cost_a++;
 		}
-		while (cheap_node->cost_b < 0)
-		{
+		while (cheap_node->cost_b++ < 0)
 			rrb(data, 1);
-			cheap_node->cost_b++;
-		}
 	}
 	else if (cheap_node->cost_b > cheap_node->cost_a)
 	{
-		while (cheap_node->cost_b < 0)
+		while (cheap_node->cost_b++ < 0)
 		{
 			rrr(data);
 			cheap_node->cost_a++;
-			cheap_node->cost_b++;
 		}
-		while (cheap_node->cost_a < 0)
-		{
+		while (cheap_node->cost_a++ < 0)
 			rra(data, 1);
-			cheap_node->cost_a++;
-		}
 	}
 	else
 	{
-		while (cheap_node->cost_a && cheap_node->cost_b)
-		{
+		while (cheap_node->cost_a++ && cheap_node->cost_b++)
 			rrr(data);
-			cheap_node->cost_a++;
-			cheap_node->cost_b++;
+	}
+}
+
+void	sort_all_2(t_data *data, t_list *cheap_node)
+{
+	if (cheap_node->cost_a > cheap_node->cost_b)
+	{
+		while (cheap_node->cost_b-- > 0)
+		{
+			rr(data);
+			cheap_node->cost_a--;
 		}
+		while (cheap_node->cost_a-- > 0)
+			ra(data, 1);
+	}
+	else if (cheap_node->cost_b > cheap_node->cost_a)
+	{
+		while (cheap_node->cost_a-- > 0)
+		{
+			rr(data);
+			cheap_node->cost_b--;
+		}
+		while (cheap_node->cost_b-- > 0)
+			rb(data, 1);
+	}
+	else
+	{
+		while (cheap_node->cost_a-- && cheap_node->cost_b--)
+			rr(data);
 	}
 }

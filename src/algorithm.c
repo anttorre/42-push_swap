@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 11:39:19 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 11:04:27 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/16 11:14:28 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -103,74 +103,9 @@ void	sort_all(t_data *data)
 		if (cheap_node->cost_a < 0 && cheap_node->cost_b < 0)
 			sort_all_1(data, cheap_node);
 		else if (cheap_node->cost_a > 0 && cheap_node->cost_b > 0)
-		{
-			if (cheap_node->cost_a > cheap_node->cost_b)
-			{
-				while (cheap_node->cost_b > 0)
-				{
-					rr(data);
-					cheap_node->cost_b--;
-					cheap_node->cost_a--;
-				}
-				while (cheap_node->cost_a > 0)
-				{
-					ra(data, 1);
-					cheap_node->cost_a--;
-				}
-			}
-			else if (cheap_node->cost_b > cheap_node->cost_a)
-			{
-				while (cheap_node->cost_a > 0)
-				{
-					rr(data);
-					cheap_node->cost_a--;
-					cheap_node->cost_b--;
-				}
-				while (cheap_node->cost_b > 0)
-				{
-					rb(data, 1);
-					cheap_node->cost_b--;
-				}
-			}
-			else
-			{
-				while (cheap_node->cost_a && cheap_node->cost_b)
-				{
-					rr(data);
-					cheap_node->cost_a--;
-					cheap_node->cost_b--;
-				}
-			}
-		}
+			sort_all_2(data, cheap_node);
 		else
-		{
-			if (cheap_node->cost_a >= 0 && cheap_node->cost_b <= 0)
-			{
-				while (cheap_node->cost_a > 0)
-				{
-					ra(data, 1);
-					cheap_node->cost_a--;
-				}
-				while (cheap_node->cost_b < 0)
-				{
-					rrb(data, 1);
-					cheap_node->cost_b++;
-				}
-			}
-			else
-			{
- 				while (cheap_node->cost_a < 0)
-				{
-					rra(data, 1);
-					cheap_node->cost_a++;
-				}
-				while (cheap_node->cost_b > 0)
-				{
-					rb(data, 1);
-					cheap_node->cost_b--;
-				}
-			}
-		}
+			sort_all_3(data, cheap_node);
 		pa(data);
 	}
 }
