@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 15:54:59 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/14 15:08:33 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/14 16:10:27 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,6 +31,8 @@ void	rb(t_data *data, int flag)
 	t_list	*aux;
 	t_list	*last;
 
+	if (ft_lstsize(data->stack_b) < 2)
+		return ;
 	aux = data->stack_b;
 	last = ft_lstlast(data->stack_b);
 	data->stack_b = aux->next;
@@ -42,6 +44,8 @@ void	rb(t_data *data, int flag)
 
 void	rr(t_data *data)
 {
+	if ((ft_lstsize(data->stack_a) < 2) || (ft_lstsize(data->stack_b) < 2))
+		return ;
 	ra(data, 0);
 	rb(data, 0);
 	ft_printf("rr\n");
@@ -74,6 +78,8 @@ void	rrb(t_data *data, int flag)
 	t_list	*aux;
 	t_list	*last;
 
+	if (ft_lstsize(data->stack_b) < 2)
+		return ;
 	aux = data->stack_b;
 	last = ft_lstlast(data->stack_b);
 	while (aux)
@@ -86,7 +92,7 @@ void	rrb(t_data *data, int flag)
 		aux = aux->next;
 	}
 	last->next = data->stack_b;
-	data->stack_a = last;
+	data->stack_b = last;
 	if (flag == 1)
 		ft_printf("rrb\n");
 }
