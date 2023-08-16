@@ -14,7 +14,7 @@ RESET	:= \033[0m
 
 NAME = push_swap
 
-#NAME_BONUS = checker_bonus
+NAME_BONUS = checker
 
 CC = gcc
 
@@ -26,7 +26,7 @@ LIBFT = $(LIBFT_PATH)/libft.a
 
 PUSH_SWAP = push_swap.a
 
-#PUSH_SWAP_BONUS = push_swap_bonus.a
+#PUSH_SWAP_BONUS = checker.a
 
 LIB = ar rcs
 
@@ -36,7 +36,9 @@ SRCS = src/push_swap.c src/check_arg_int.c src/push_swap_utils.c src/push_swap_m
 
 OBJS = $(SRCS:.c=.o)
 
-#SRCS_BONUS = srcb/so_long_bonus.c srcb/map_check_bonus.c srcb/map_bonus.c srcb/set_images_bonus.c srcb/player_movement_bonus.c srcb/monster_movement_bonus.c
+#SRCS_BONUS = check_arg_int.c push_swap_utils.c push_swap_moves.c\
+	push_swap_moves_1.c push_swap_moves_2.c algorithm.c algorithm_utils.c\
+	algorithm_utils_2.c algorithm_utils_3.c srcb/checker.c
 
 #OBJS_BONUS = $(SRCS_BONUS:.c=.o)
 
@@ -46,35 +48,35 @@ $(NAME) :	$(OBJS) $(LIBFT)
 			@$(CC) $(CFLAGS) $(PUSH_SWAP) $(LIBFT) -o $(NAME)
 			@echo "$(CYAN)$(BOLD)Done$(RESET)"
 
-$(OBJS):	src/%.o : src/%.c 
+$(OBJS):	%.o : %.c 
+			@$(CC) $(CFLAGS) -c $< -o $@
+
+#$(NAME_BONUS): $(OBJS_BONUS) $(LIBFT)
+#			@echo "$(YELLOW)$(BOLD)Compiling push_swap bonus...$(RESET)"
+#			@$(LIB) $(PUSH_SWAP_BONUS) $(OBJS_BONUS)
+#			@$(CC) $(CFLAGS) $(PUSH_SWAP_BONUS) $(LIBFT) -o $(NAME_BONUS)
+#			@echo "$(CYAN)$(BOLD)Done$(RESET)"
+
+#$(OBJS_BONUS):	%.o : %.c
 			@$(CC) $(CFLAGS) -c $< -o $@
 
 $(LIBFT):
 			@make -s -C $(LIBFT_PATH)
 			@make bonus -s -C $(LIBFT_PATH)
 
-#$(NAME_BONUS): $(OBJS_BONUS) $(LIBFT) $(MLX)
-#			@echo "$(YELLOW)$(BOLD)Compiling so_long_bonus...$(RESET)"
-#			@$(LIB) $(SO_LONG_BONUS) $(OBJS_BONUS)
-#			@$(CC) $(CFLAGS) $(SO_LONG_BONUS) $(MLX) $(LIBFT) $(LIB_SYS) -o $(NAME_BONUS)
-#			@echo "$(CYAN)$(BOLD)Done$(RESET)"
-
-#$(OBJS_BONUS):	srcb/%.o : srcb/%.c 
-#			@$(CC) $(CFLAGS) -c $< -o $@
-
 all : $(NAME)
 
-#bonus : $(NAME_BONUS)
+bonus : $(NAME_BONUS)
 
 clean:
 			@echo "$(RED)$(BOLD)Cleaning objects from push_swap...$(RESET)"
-			@rm -f $(OBJS)
+			@rm -f $(OBJS) $(OBJS_BONUS)
 			@echo "$(GREEN)$(BOLD)Done.$(RESET)"
 			@make clean -s -C $(LIBFT_PATH)
 
 fclean:
 			@echo "$(RED)$(BOLD)Cleaning all files from push_swap...$(RESET)"
-			@rm -f $(NAME) $(OBJS) $(LIBFT) $(PUSH_SWAP)
+			@rm -f $(NAME) $(OBJS) $(OBJS_BONUS) $(LIBFT) $(PUSH_SWAP) $(PUSH_SWAP_BONUS)
 			@echo "$(GREEN)$(BOLD)Done.$(RESET)"
 			@make fclean -s -C $(LIBFT_PATH)
 

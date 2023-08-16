@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 13:13:43 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/16 15:22:04 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,7 +60,7 @@ int	main(int argc, char *argv[])
 	if (!data)
 		return (EXIT_FAILURE);
 	initialize_data(data);
-	if (argc > 2)
+	if (argc > 1)
 	{
 		if (check_args(argv, data, argc) == EXIT_FAILURE)
 			return (free(data), EXIT_FAILURE);

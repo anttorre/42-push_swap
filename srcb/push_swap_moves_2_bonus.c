@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   push_swap_moves_2.c                                :+:      :+:    :+:   */
+/*   push_swap_moves_2_bonus.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 17:02:44 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 17:42:23 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/16 18:30:17 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "push_swap_bonus.h"
 
 void	rrr(t_data *data, int flag)
 {
