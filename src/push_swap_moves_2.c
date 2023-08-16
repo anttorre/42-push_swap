@@ -6,12 +6,11 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 17:02:44 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/14 16:02:40 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/16 12:29:49 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "push_swap.h"
-
 
 void	rrr(t_data *data)
 {
