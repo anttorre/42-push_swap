@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 13:04:21 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 17:40:35 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/21 15:20:25 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,6 +64,8 @@ void	pb(t_data *data, int flag)
 	t_list	*aux;
 	int		index;
 
+	if (ft_lstsize(data->stack_a) == 0)
+		return ;
 	value = data->stack_a->value;
 	index = data->stack_a->index;
 	aux = data->stack_a->next;
@@ -84,6 +86,8 @@ void	pa(t_data *data, int flag)
 	int		index;
 	int		target_p;
 
+	if (ft_lstsize(data->stack_b) == 0)
+		return ;
 	value = data->stack_b->value;
 	index = data->stack_b->index;
 	target_p = data->stack_b->target_pos;

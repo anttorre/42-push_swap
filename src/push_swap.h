@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:50:06 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 18:24:44 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/17 18:20:23 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,5 +61,6 @@ int				cost(t_list *aux_b);
 void			ra_rra(t_data *data);
 int				max_index_stack_a(t_data *data);
 void			ft_free_full_arr(char **arr);
+int				is_sorted(t_list **stack);
 
 #endif

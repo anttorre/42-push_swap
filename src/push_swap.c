@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 15:22:04 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/21 15:11:36 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,7 @@ int	main1(t_data *data)
 	if (init_stack_a(data) == EXIT_FAILURE)
 		return (ft_free_full_arr(data->arr),
 			ft_lstclear(&data->stack_a, &del_content),
-			ft_printf("Error\n"),
+			ft_putendl_fd("Error", 2),
 			EXIT_FAILURE);
 	data->lst_size = ft_lstsize(data->stack_a);
 	put_index(data);

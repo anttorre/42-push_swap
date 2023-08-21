@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 15:54:59 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 17:41:37 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/21 15:33:02 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,8 @@ void	ra(t_data *data, int flag)
 	t_list	*aux;
 	t_list	*last;
 
+	if (ft_lstsize(data->stack_a) < 2)
+		return ;
 	aux = data->stack_a;
 	last = ft_lstlast(data->stack_a);
 	data->stack_a = aux->next;
@@ -57,6 +59,8 @@ void	rra(t_data *data, int flag)
 	t_list	*aux;
 	t_list	*last;
 
+	if (ft_lstsize(data->stack_a) < 2)
+		return ;
 	aux = data->stack_a;
 	last = ft_lstlast(data->stack_a);
 	while (aux)

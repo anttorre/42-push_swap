@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/14 12:31:38 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/16 17:43:34 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/21 15:15:52 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,13 +56,13 @@ void	ra_rra(t_data *data)
 	int		middle;
 	t_list	*aux;
 
-	middle = ft_lstsize(data->stack_a) / 2;
+	middle = (ft_lstsize(data->stack_a) / 2) + 1;
 	aux = data->stack_a;
-	if (data->stack_a->index > middle)
+	if (data->stack_a->index >= middle)
 	{
 		while (aux->index != 1)
 		{
-			rra(data, 1);
+			ra(data, 1);
 			aux = data->stack_a;
 		}
 	}
@@ -70,7 +70,7 @@ void	ra_rra(t_data *data)
 	{
 		while (aux->index != 1)
 		{
-			ra(data, 1);
+			rra(data, 1);
 			aux = data->stack_a;
 		}
 	}

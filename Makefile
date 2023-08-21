@@ -26,7 +26,7 @@ LIBFT = $(LIBFT_PATH)/libft.a
 
 PUSH_SWAP = push_swap.a
 
-#PUSH_SWAP_BONUS = checker.a
+PUSH_SWAP_BONUS = checker.a
 
 LIB = ar rcs
 
@@ -36,11 +36,9 @@ SRCS = src/push_swap.c src/check_arg_int.c src/push_swap_utils.c src/push_swap_m
 
 OBJS = $(SRCS:.c=.o)
 
-#SRCS_BONUS = check_arg_int.c push_swap_utils.c push_swap_moves.c\
-	push_swap_moves_1.c push_swap_moves_2.c algorithm.c algorithm_utils.c\
-	algorithm_utils_2.c algorithm_utils_3.c srcb/checker.c
+SRCS_BONUS = srcb/checker.c
 
-#OBJS_BONUS = $(SRCS_BONUS:.c=.o)
+OBJS_BONUS = $(SRCS_BONUS:.c=.o)
 
 $(NAME) :	$(OBJS) $(LIBFT)
 			@echo "$(MAGENTA)$(BOLD)Compiling push_swap...$(RESET)"
@@ -48,16 +46,17 @@ $(NAME) :	$(OBJS) $(LIBFT)
 			@$(CC) $(CFLAGS) $(PUSH_SWAP) $(LIBFT) -o $(NAME)
 			@echo "$(CYAN)$(BOLD)Done$(RESET)"
 
-$(OBJS):	%.o : %.c 
+$(OBJS):	src/%.o : src/%.c 
 			@$(CC) $(CFLAGS) -c $< -o $@
 
-#$(NAME_BONUS): $(OBJS_BONUS) $(LIBFT)
-#			@echo "$(YELLOW)$(BOLD)Compiling push_swap bonus...$(RESET)"
-#			@$(LIB) $(PUSH_SWAP_BONUS) $(OBJS_BONUS)
-#			@$(CC) $(CFLAGS) $(PUSH_SWAP_BONUS) $(LIBFT) -o $(NAME_BONUS)
-#			@echo "$(CYAN)$(BOLD)Done$(RESET)"
+$(NAME_BONUS): $(OBJS_BONUS) $(OBJS) $(LIBFT)
+			@echo "$(YELLOW)$(BOLD)Compiling push_swap bonus...$(RESET)"
+			@$(LIB) $(PUSH_SWAP_BONUS) $(OBJS_BONUS) $(OBJS)
+			@rm -rf src/push_swap.o
+			@$(CC) $(CFLAGS) $(PUSH_SWAP_BONUS) $(LIBFT) -o $(NAME_BONUS)
+			@echo "$(CYAN)$(BOLD)Done$(RESET)"
 
-#$(OBJS_BONUS):	%.o : %.c
+$(OBJS_BONUS):	srcb/%.o : srcb/%.c
 			@$(CC) $(CFLAGS) -c $< -o $@
 
 $(LIBFT):
@@ -76,7 +75,7 @@ clean:
 
 fclean:
 			@echo "$(RED)$(BOLD)Cleaning all files from push_swap...$(RESET)"
-			@rm -f $(NAME) $(OBJS) $(OBJS_BONUS) $(LIBFT) $(PUSH_SWAP) $(PUSH_SWAP_BONUS)
+			@rm -f $(NAME) $(NAME_BONUS) $(OBJS) $(OBJS_BONUS) $(LIBFT) $(PUSH_SWAP) $(PUSH_SWAP_BONUS)
 			@echo "$(GREEN)$(BOLD)Done.$(RESET)"
 			@make fclean -s -C $(LIBFT_PATH)
 
@@ -84,4 +83,4 @@ re : fclean all
 
 ps : all clean
 
-.PHONY : all re fclean clean bonus ps
+.PHONY : all re fclean clean bonus ps		

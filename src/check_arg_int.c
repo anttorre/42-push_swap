@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 16:37:09 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/03 17:02:58 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/21 15:12:24 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,20 +51,20 @@ int	check_args(char **argv, t_data *data, int argc)
 	data->i = 0;
 	data->arr = ft_calloc(argc, sizeof(char *));
 	if (!data->arr)
-		return (ft_printf("Error\n"), EXIT_FAILURE);
+		return (ft_putendl_fd("Error", 2), EXIT_FAILURE);
 	while (argv[++data->i] != NULL)
 	{
 		data->j = -1;
 		if (argv[data->i][0] == '\0')
 			return (ft_free_arr(data->arr, (data->i - 1))
-				, ft_printf("Error\n"), EXIT_FAILURE);
+				, ft_putendl_fd("Error", 2), EXIT_FAILURE);
 		while (argv[data->i][++data->j] != '\0')
 		{
 			if (data->j == 0 && argv[data->i][data->j] == '-')
 				data->j++;
 			if (!ft_isdigit(argv[data->i][data->j]))
 				return (ft_free_arr(data->arr, (data->i - 1)),
-					ft_printf("Error\n"), EXIT_FAILURE);
+					ft_putendl_fd("Error", 2), EXIT_FAILURE);
 		}
 		data->arr[data->i - 1] = ft_calloc(ft_strlen(argv[data->i]) + 1, 1);
 		if (!data->arr[data->i - 1])
@@ -94,8 +94,8 @@ int	check_args1(char **argv, t_data *data)
 				if (j == 0 && data->arr[i][j] == '-')
 					j++;
 				if (!ft_isdigit(data->arr[i][j]))
-					return (ft_free_full_arr(data->arr), ft_printf("Error\n")
-						, EXIT_FAILURE);
+					return (ft_free_full_arr(data->arr),
+						ft_putendl_fd("Error", 2), EXIT_FAILURE);
 			}
 		}
 	}
