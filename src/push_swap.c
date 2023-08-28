@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 11:47:15 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/28 11:51:03 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/28 12:17:40 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,10 +15,10 @@
 
 //void	imprimir_lista_enlazada(t_data *data);
 
-void	ft_leaks(void)
+/* void	ft_leaks(void)
 {
 	system("leaks -q push_swap");
-}
+} */
 
 void	initialize_data(t_data *data)
 {
@@ -60,7 +60,6 @@ int	main(int argc, char *argv[])
 	if (!data)
 		return (EXIT_FAILURE);
 	initialize_data(data);
-	atexit(ft_leaks);
 	if (argc > 2)
 	{
 		if (check_args(argv, data, argc) == EXIT_FAILURE)

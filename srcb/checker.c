@@ -6,16 +6,16 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/16 14:25:03 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/28 12:12:52 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/28 13:02:02 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../src/push_swap.h"
 
-void	ft_leaks2(void)
+/* void	ft_leaks2(void)
 {
 	system("leaks -q checker");
-}
+} */
 
 void	ft_free_stacks(t_data *data)
 {
@@ -69,8 +69,6 @@ int	main1(t_data *data)
 	if (init_stack_a(data) == EXIT_FAILURE)
 		return (ft_free_full_arr(data->arr),
 			ft_free_stacks(data), ft_putendl_fd("Error", 2), EXIT_FAILURE);
-	if (is_sorted(&data->stack_a) && data->stack_b == NULL)
-		return (ft_printf("OK\n"), EXIT_SUCCESS);
 	line = get_next_line(0);
 	while (line)
 	{
@@ -95,7 +93,6 @@ int	main(int argc, char *argv[])
 	data = ft_calloc(1, sizeof(t_data));
 	if (!data)
 		return (EXIT_FAILURE);
-	atexit(ft_leaks2);
 	initialize_data(data);
 	if (argc > 2)
 	{
