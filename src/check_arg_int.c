@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/24 16:37:09 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/21 15:12:24 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/28 12:09:54 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -86,6 +86,8 @@ int	check_args1(char **argv, t_data *data)
 		if (!data->arr)
 			return (EXIT_FAILURE);
 		i = -1;
+		if (!data->arr[0])
+			return (ft_free_full_arr(data->arr), ft_putendl_fd("Error", 2), 1);
 		while (data->arr[++i] != NULL)
 		{
 			j = -1;

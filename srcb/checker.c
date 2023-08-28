@@ -6,7 +6,7 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/16 14:25:03 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/21 15:06:32 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/28 11:58:14 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -74,6 +74,8 @@ int	main1(t_data *data)
 	if (init_stack_a(data) == EXIT_FAILURE)
 		return (ft_free_full_arr(data->arr),
 			ft_free_stacks(data), ft_putendl_fd("Error", 2), EXIT_FAILURE);
+	if (is_sorted(&data->stack_a) && data->stack_b == NULL)
+		return (ft_printf("OK\n"), EXIT_SUCCESS);
 	line = get_next_line(0);
 	while (line)
 	{
@@ -83,11 +85,11 @@ int	main1(t_data *data)
 		else
 		{
 			free(line);
-			if (is_sorted(&data->stack_a) && data->stack_b == NULL)
-				return (ft_printf("OK\n"), EXIT_SUCCESS);
 			line = get_next_line(0);
 		}
 	}
+	if (is_sorted(&data->stack_a) && data->stack_b == NULL)
+		return (ft_printf("OK\n"), EXIT_SUCCESS);
 	return (ft_printf("KO\n"), EXIT_SUCCESS);
 }
 
@@ -100,7 +102,7 @@ int	main(int argc, char *argv[])
 		return (EXIT_FAILURE);
 	atexit(ft_leaks2);
 	initialize_data(data);
-	if (argc > 1)
+	if (argc > 2)
 	{
 		if (check_args(argv, data, argc) == EXIT_FAILURE)
 			return (free(data), EXIT_FAILURE);
