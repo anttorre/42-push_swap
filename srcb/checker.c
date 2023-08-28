@@ -6,16 +6,11 @@
 /*   By: anttorre <atormora@gmail.com>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/16 14:25:03 by anttorre          #+#    #+#             */
-/*   Updated: 2023/08/28 11:58:14 by anttorre         ###   ########.fr       */
+/*   Updated: 2023/08/28 12:12:52 by anttorre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../src/push_swap.h"
-
-void	ft_leaks(void)
-{
-	system("leaks -q push_swap");
-}
 
 void	ft_leaks2(void)
 {
